@@ -185,7 +185,7 @@ li{
 .events{
   align-items:center;
   text-align:center;
-  height:39vw !important; width:70%;
+  height:51vw !important; width:70%;
 
 }
 
