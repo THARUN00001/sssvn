@@ -857,12 +857,12 @@
                     <div class="grids-inn-ab">
                         <div class="sub-mission one-top">
                             <div class="mission-sec-gd">
-                                <img src="img/scan00133.jpg" alt="" class="img-fluid" />
+                                <img src="img/scan00133.jpg" alt="" class="img-fluid"/>
                             </div>
                             <div class="mission-sec-gd">
-                                <img src="ssimg/2002/scan0013.jpg" alt="" class="img-fluid" />
+                                <img src="ssimg/2002/scan0013.jpg" alt="" class="img-fluid"/>
                             </div>
-
+                            
                         </div>
                         <div class="sub-mission">
                             <div class="mission-sec-gd">

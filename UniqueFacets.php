@@ -87,7 +87,7 @@
 
 
 
-<div data-aos="fade-right" style="background:  url(img/Unique-Facets-Page/banner.jpeg) ;width: 100%;height:480px;background-position-y:30% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white;" class=" heading w3l-inner-page-main .breadcrumb-infhny w3l-inner-page-main .breadcrumb-infhny::before" id="">
+<div data-aos="fade-right" style="background:  url(img/Unique-Facets-Page/banner.jpeg); width: 100%;height:480px;background-position-y:30% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white; " class=" heading w3l-inner-page-main .breadcrumb-infhny w3l-inner-page-main .breadcrumb-infhny::before" id="">
 
     <center>
         <h2 class="unique_title" style="color:white">
@@ -112,16 +112,14 @@
             </h1>
         </center>
     </div>
-    <br>
-    <br>
-    <br>
+  
     <section data-aos="fade-right" style="margin-bottom:20px ">
         <div class="uf_one">
 
             <div class="col-lg-5" style="float:right">
                 <br>
                 <br>
-                <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/VBE 1.JPG" alt="">
+                <img style=" height:100%; width:100%; margin: 15px 15px 15px 0 ; border-radius:15px;" src="img/VBE 1.JPG" alt="">
                 <br>
                 <br>
             </div>

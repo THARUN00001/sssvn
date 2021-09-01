@@ -1857,6 +1857,159 @@ color: #1664CD;
 
 
 
+.row{ 
+display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: space-between;
+}
+
+
+figcaption{
+	text-align:left !important;
+	height:100% !important;
+	width:100% !important;
+	background-color:white !important;
+	color:black !important;
+}
+
+	.imghvr-fade{
+	width:100%;
+	position: relative;
+
+	padding:15px;
+        text-align: center;
+        border: 1px solid #eee;
+        background: #fff;
+        border-radius: 30px;
+  
+        -webkit-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.1);
+        -moz-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.1);
+        box-shadow: 6px 8px 20px rgba(0, 0, 0, 0.27);
+        -webkit-transition-duration: .4s;
+        transition-duration: .4s;
+}
+.imghvr-fade:hover{
+-webkit-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.2);
+-moz-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.2);
+box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.2);
+}
+
+
+.imghvr-fade img{
+	margin-top:15px;
+border-radius: 50%;
+width: 40%;
+height: 40%;
+}
+
+
+
+.imghvr-fade h4{
+color: #6d6e71;
+font-size: 17px;
+font-weight: 600;
+margin-top: 15px;
+-webkit-transition-duration: .3s;
+transition-duration: .3s;
+}
+.imghvr-fade h4 a{
+color: #6d6e71;
+font-size: 17px;
+font-weight: 600;
+margin-top: 15px;
+-webkit-transition-duration: .3s;
+transition-duration: .3s;
+}
+.imghvr-fade h4 a:hover{
+color: #71bf45;
+}
+
+.imghvr-fade h5:first-child{
+	color: #106eea;
+
+font-size: 15px;
+font-weight: 500;
+margin-top: 7px;
+}
+.imghvr-fade h5:last-child{
+	color: #da2945;
+font-size: 15px;
+font-weight: 500;
+margin-top: 7px;
+}
+
+
+.res_col{
+color:#106eea !important;
+	font-size:12px !important;
+}
+
+.res_t{
+	color:#106eea !important;
+	font-size:15px !important;	
+}
+
+.term{
+	color:#da2945 !important;
+}
+
+.imghvr-fade h4{
+color: #6d6e71;
+font-size: 17px;
+font-weight: 600;
+margin-top: 15px;
+-webkit-transition-duration: .3s;
+transition-duration: .3s;
+}
+.imghvr-fade h4 a{
+color: #6d6e71;
+font-size: 17px;
+font-weight: 600;
+margin-top: 15px;
+-webkit-transition-duration: .3s;
+transition-duration: .3s;
+}
+.imghvr-fade h4 a:hover{
+color: #71bf45;
+}
+
+.imghvr-fade h5:first-child{
+	color: #106eea;
+
+font-size: 15px;
+font-weight: 500;
+margin-top: 7px;
+}
+.imghvr-fade h5:last-child{
+	color: #da2945;
+font-size: 15px;
+font-weight: 500;
+margin-top: 7px;
+}
+
+
+.imghvr-fade li{
+display: inline-block;
+margin: 5px 0px 0px 0px;
+}
+
+.imghvr-fade li a i{
+color: #999;
+font-size: 14px;
+padding: 10px;
+-webkit-transition-duration: .4s;
+transition-duration: .4s;
+}
+.imghvr-fade li:hover a i{
+color: #71bf45;
+}
+
+
+
+
 
 </style>
 
@@ -1864,7 +2017,7 @@ color: #1664CD;
 
 
 
-<div data-aos="fade-right" style="background:  url(img/SSLC-TOOPERS-PHOTOS/banner.jpg) ;width: 100%;height:480px;background-position-y:40% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white;"  class="heading" >
+<div data-aos="fade-right" style="background:  url(img/SSLC-TOOPERS-PHOTOS/banner.JPEG) ;width: 100%;height:480px;background-position-y:40% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white;"  class="heading" >
 <br>
 <br>
 <br>
@@ -3280,8 +3433,7 @@ Academics
 <button class="accordion active" style="font-size:13px;   ">  <b>Toppers 2020 - 21</b>  </button>
 <div class="panel"  style="display:block;">
  <div class="row">
-	<br>
-	<br>
+	
 	 		<div class=" col-lg-4 col-md-4 col-sm-12">
 	 			<div style="width:80% ;"  class="team-circle">
 			
@@ -3331,19 +3483,17 @@ Academics
 	 			</div>
 	 		</div>
 		
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+  
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2019 - 20</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class=" col-lg-4 col-md-4 col-sm-12">
 	 			<div style="width:80% ;"  class="team-circle">
 			
@@ -3393,19 +3543,16 @@ Academics
 	 			</div>
 	 		</div>
 		
-<br>
-<br>
-	 		
+		
 		</div>
-  <br>
+ 
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2018 - 19</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div style="width:80% ;" class="team-circle">
 
@@ -3457,18 +3604,16 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+ 
 </div>
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2017 - 18</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div style="width:80% ;" class="team-circle">
 		
@@ -3519,19 +3664,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2016 - 17</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div style="width:80% ;" class="team-circle">
 		
@@ -3582,19 +3725,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2015 - 16</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div style="width:80% ;" class="team-circle">
 		
@@ -3645,19 +3786,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2014 - 15</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 	
 			<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
@@ -3708,19 +3847,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+ 
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2013 - 14</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
 		
@@ -3770,19 +3907,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+ 
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2012 - 13</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+	
 	 		<div class="col-lg-3 col-md-6  col-sm-12">
 	 			<div  class="team-circle">
 			
@@ -3845,19 +3980,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2011 - 12</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
 	
@@ -3905,19 +4038,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2010 - 11</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
 		
@@ -3944,7 +4075,7 @@ Academics
 	 				<div class="team-circle-text">
 					 <h5 class="light italic libre-baskerville"><b>2ND RANK</b> </h5>
 					 <h4 class="light">PRIYANKA V</h4>
-	 					<h5 class="light italic libre-baskerville">Marks: 594</h5>
+	 				
 						<h5 class="light italic libre-baskerville">Percentage: 95.04%</h5>
 					</div>
 	 			</div>
@@ -3967,19 +4098,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2009 - 10</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
 	
@@ -4026,19 +4155,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+  
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2008 - 09</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
 			
@@ -4087,19 +4214,17 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
-  <br>
+
 </div>
 
 
 <button class="accordion " style="font-size:13px;   ">  <b>Toppers 2007 - 08</b>  </button>
 <div class="panel"  >
  <div class="row">
-	<br>
-	<br>
+
 	 		<div class="col-lg-4 col-md-4 col-sm-12">
 	 			<div  class="team-circle">
 		
@@ -4147,8 +4272,7 @@ Academics
 	 			</div>
 	 		</div>
 			
-<br>
-<br>
+
 	 		
 		</div>
   <br>
@@ -4547,176 +4671,20 @@ Academics
 		
 		
 	
-</div>
+
 
 
 
 <br><br><br><br><br>
 <br><br>
 
-<style>
-.row{ 
-display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
-    justify-content: space-between;
-}
 
-</style>
-
-	 			
-	 				
-<style>
-
-figcaption{
-	text-align:left !important;
-	height:100% !important;
-	width:100% !important;
-	background-color:white !important;
-	color:black !important;
-}
-
-	.imghvr-fade{
-	width:100%;
-	position: relative;
-
-	padding:15px;
-        text-align: center;
-        border: 1px solid #eee;
-        background: #fff;
-        border-radius: 30px;
-  
-        -webkit-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.1);
-        -moz-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.1);
-        box-shadow: 6px 8px 20px rgba(0, 0, 0, 0.27);
-        -webkit-transition-duration: .4s;
-        transition-duration: .4s;
-}
-.imghvr-fade:hover{
--webkit-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.2);
--moz-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.2);
-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.2);
-}
-
-
-.imghvr-fade img{
-	margin-top:15px;
-border-radius: 50%;
-width: 40%;
-height: 40%;
-}
-
-
-
-.imghvr-fade h4{
-color: #6d6e71;
-font-size: 17px;
-font-weight: 600;
-margin-top: 15px;
--webkit-transition-duration: .3s;
-transition-duration: .3s;
-}
-.imghvr-fade h4 a{
-color: #6d6e71;
-font-size: 17px;
-font-weight: 600;
-margin-top: 15px;
--webkit-transition-duration: .3s;
-transition-duration: .3s;
-}
-.imghvr-fade h4 a:hover{
-color: #71bf45;
-}
-
-.imghvr-fade h5:first-child{
-	color: #106eea;
-
-font-size: 15px;
-font-weight: 500;
-margin-top: 7px;
-}
-.imghvr-fade h5:last-child{
-	color: #da2945;
-font-size: 15px;
-font-weight: 500;
-margin-top: 7px;
-}
-
-
-.res_col{
-color:#106eea !important;
-	font-size:12px !important;
-}
-
-.res_t{
-	color:#106eea !important;
-	font-size:15px !important;	
-}
-
-.term{
-	color:#da2945 !important;
-}
-
-.imghvr-fade h4{
-color: #6d6e71;
-font-size: 17px;
-font-weight: 600;
-margin-top: 15px;
--webkit-transition-duration: .3s;
-transition-duration: .3s;
-}
-.imghvr-fade h4 a{
-color: #6d6e71;
-font-size: 17px;
-font-weight: 600;
-margin-top: 15px;
--webkit-transition-duration: .3s;
-transition-duration: .3s;
-}
-.imghvr-fade h4 a:hover{
-color: #71bf45;
-}
-
-.imghvr-fade h5:first-child{
-	color: #106eea;
-
-font-size: 15px;
-font-weight: 500;
-margin-top: 7px;
-}
-.imghvr-fade h5:last-child{
-	color: #da2945;
-font-size: 15px;
-font-weight: 500;
-margin-top: 7px;
-}
-
-
-.imghvr-fade li{
-display: inline-block;
-margin: 5px 0px 0px 0px;
-}
-
-.imghvr-fade li a i{
-color: #999;
-font-size: 14px;
-padding: 10px;
--webkit-transition-duration: .4s;
-transition-duration: .4s;
-}
-.imghvr-fade li:hover a i{
-color: #71bf45;
-}
-
-	</style>
 
 <section>
-<title>Sri Sathya Sai Vidyaniketan | Academics</title>
 
-<div class="container">
-<div style="width:90%; ">
+
+
+  <div style="width:90%; ">
 		
 		<h1 data-aos="fade-right" class="light" id="ResourcePerson">Resource Persons</h1>
 		
@@ -4864,6 +4832,7 @@ color: #71bf45;
 <br>
 </div>
 <br>
+</div>
 </div>
 <br>
 </section>
