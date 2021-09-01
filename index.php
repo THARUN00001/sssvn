@@ -587,7 +587,7 @@ padding-right: 30px;
 
 
 <main id="main">
-  <br><br>
+  
   <section style="background-color: #e6e6e6 !important; padding-top:0px;">
 
 
@@ -630,7 +630,7 @@ padding-right: 30px;
               </p>
             </div>
           </div>
-          <br><br>
+       
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="card" style=" margin-bottom:15px;">
@@ -650,7 +650,7 @@ padding-right: 30px;
               </p>
             </div>
           </div>
-          <br><br>
+         
           <div class="col-md-12 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <!-- <div class="icon text-center"><i> <img src="img/team.svg" width="55" height="55" alt=""></i></div> -->
