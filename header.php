@@ -58,6 +58,15 @@
       color: #106eea;
     }
 
+    
+    a:active {
+      border: none !important; 
+    }
+
+    a:hover {
+      border: none !important; 
+    }
+
     .b4k a {
       font-size: 16px;
       color: #f30067;

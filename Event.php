@@ -207,6 +207,14 @@ li{
 
 }
 
+#med_camps_prev{
+    position: absolute;left: 20%;
+  }
+  #med_camps_next{
+    position: absolute;left: 65%;
+  }
+
+
 @media only screen and (max-width: 900px) {
 
   .events_carousel{
@@ -227,12 +235,16 @@ li{
   left: 0;
 }
 
-#med_camps_prev{
-  position: absolute;left: 10%
-}
-#med_camps_next{
-  position: absolute;left: 10%
-}
+   #med_camps_prev{
+   position: absolute;
+   left: 0;
+ }
+ #med_camps_next{
+   position: absolute;
+   left: 90%;
+ }
+
+
 }
 
 .carousel-item{
@@ -1545,14 +1557,7 @@ li{
 </div>
 
 
-<style>
-  #med_camps_prev{
-    position: absolute;left: 20%;
-  }
-  #med_camps_next{
-    position: absolute;left: 65%;
-  }
-</style>
+
 
 
     <a class="carousel-control-prev" id="med_camps_prev"  href="#carouselExampleFade9" role="button" data-slide="prev">
@@ -1711,7 +1716,7 @@ li{
 <br>
 
 
-<div id="carouselExampleFade16" class="carousel slide carousel-fade" data-ride="carousel">
+<div id="swachaBharath" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img  class="events_carousel" class="d-block w-100" src="Selected-School-Images/swacha-bharath/One.jpg" alt="First slide">
@@ -1747,11 +1752,11 @@ li{
 </div>
 
 
-  <a class="carousel-control-prev" href="#carouselExampleFade16" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#swachaBharath" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleFade16" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#swachaBharath" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
