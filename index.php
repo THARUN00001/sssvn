@@ -1,5 +1,10 @@
 <?php include 'header.php'; ?>
 <style>
+
+
+
+
+
   .counts {
     padding: 30px 0;
   }

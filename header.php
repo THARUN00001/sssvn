@@ -59,13 +59,14 @@
     }
 
     
-    a:active {
-      border: none !important; 
+    a:focus {
+      outline: none !important; 
     }
 
-    a:hover {
-      border: none !important; 
+    li:focus {
+      outline: none !important; 
     }
+
 
     .b4k a {
       font-size: 16px;
