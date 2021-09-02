@@ -271,7 +271,7 @@
 <br>
 <br>
 <center>
-    <div id="CommunityService" style="background: url(img/Unique-Facets-Page/CS.jpg);background-position-y:50% ;background-position-x:100% ;background-size:cover ;background-repeat: no-repeat; opacity:0.5px; ;background-size: cover;background-repeat: no-repeat; ;width:100%;" class="uf_six" data-aos="fade-right">
+    <div id="CommunityService" style="background: url(img/Unique-Facets-Page/CS2.JPG);background-position-y:15% ;background-size:cover ;background-repeat: no-repeat; opacity:0.5px; ;background-size: cover;background-repeat: no-repeat; ;width:100%;" class="uf_six" data-aos="fade-right">
 
         <br>
         <br>

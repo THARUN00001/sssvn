@@ -241,7 +241,7 @@ li{
  }
  #med_camps_next{
    position: absolute;
-   left: 90%;
+   left: 79%;
  }
 
 
@@ -1119,7 +1119,7 @@ li{
 <br>
 <br>
 
-<div id="carouselExampleFade4" class="carousel slide carousel-fade" data-ride="carousel">
+<div id="ParentsSports" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Parents-Sports-Day/one.jpg" alt="First slide">
@@ -1153,11 +1153,11 @@ li{
 
 </div>
 
-  <a class="carousel-control-prev" href="#carouselExampleFade4" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#ParentsSports" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleFade4" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#ParentsSports" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -1251,7 +1251,7 @@ li{
 <br>
 <br>
 
-<div id="carouselExampleFade6" class="carousel slide carousel-fade" data-ride="carousel">
+<div id="MathruVandana" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Mathru-Vandana/one.jpg" alt="First slide">
@@ -1289,11 +1289,11 @@ li{
 
 </div>
 
-  <a class="carousel-control-prev" href="#carouselExampleFade6" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#MathruVandana" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleFade6" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#MathruVandana" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
