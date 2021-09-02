@@ -716,29 +716,29 @@ li{
       <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/two.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Three.jpg" alt="Third slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Three.JPG" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Four.jpg" alt="fourth slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Four.JPG" alt="fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Five.jpg" alt="five slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Five.JPG" alt="five slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Six.jpg" alt="six slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Six.JPG" alt="six slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Seven.jpg" alt="seven slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Seven.JPG" alt="seven slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Eight.jpg" alt="eight slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Eight.JPG" alt="eight slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Nine.jpg" alt="nine slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Shirdi-Nivasa-Sai/Nine.JPG" alt="nine slide">
     </div>
 </div>
 
@@ -955,31 +955,31 @@ li{
 <div id="carouselExampleFade10" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/One.jpg" alt="One slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/One.JPG" alt="One slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Two.jpg" alt="Second slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Two.JPG" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Three.jpg" alt="Third slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Three.JPG" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Four.jpg" alt="Fourth slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Four.JPG" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Five.jpg" alt="Five slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Five.JPG" alt="Five slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Six.jpg" alt="Six slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Six.JPG" alt="Six slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Seven.jpg" alt="Seven slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Seven.JPG" alt="Seven slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Eight.jpg" alt="Eight slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/teachers-Day/Eight.JPG" alt="Eight slide">
     </div>
 
 </div>
@@ -1126,7 +1126,7 @@ li{
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Parents-Sports-Day/Two.jpg" alt="Second slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Parents-Sports-Day/Two.JPG" alt="Second slide">
     </div>
     <div class="carousel-item">
       <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Parents-Sports-Day/three.jpg" alt="Third slide">
@@ -1405,75 +1405,75 @@ li{
 
 
     <div class="carousel-item active">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/One.jpg" alt="1 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/One.JPG" alt="1 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Two.jpg" alt="2 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Two.JPG" alt="2 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Three.jpg" alt="3 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Three.JPG" alt="3 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Four.jpg" alt="4 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Four.JPG" alt="4 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Five.jpg" alt="5 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Five.JPG" alt="5 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Six.jpg" alt="6 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Six.JPG" alt="6 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Seven.jpg" alt="7 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Seven.JPG" alt="7 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Eight.jpg" alt="8 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Eight.JPG" alt="8 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Nine.jpg" alt="9 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Nine.JPG" alt="9 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Ten.jpg" alt="10 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Ten.JPG" alt="10 slide">
     </div>
     
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Eleven.jpg" alt="11 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Eleven.JPG" alt="11 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Twelve.jpg" alt="12 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Twelve.JPG" alt="12 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Thirteen.jpg" alt="13 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Thirteen.JPG" alt="13 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Fourteen.jpg" alt="14 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Fourteen.JPG" alt="14 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Fifteen.jpg" alt="15 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Fifteen.JPG" alt="15 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Sixteen.jpg" alt="16 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Sixteen.JPG" alt="16 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Seventeen.jpg" alt="17 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Seventeen.JPG" alt="17 slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Eighteen.jpg" alt="18 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Grama-Seva/Eighteen.JPG" alt="18 slide">
     </div>
 
 
@@ -1506,52 +1506,52 @@ li{
   <div class="events_carousel" class="carousel-inner">
 
   <div class="carousel-item active">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/One.jpg" alt="one slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/One.JPG" alt="one slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Two.jpg" alt="two slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Two.JPG" alt="two slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Three.jpg" alt="three slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Three.JPG" alt="three slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Four.jpg" alt="4 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Four.JPG" alt="4 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Five.jpg" alt="5 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Five.JPG" alt="5 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Six.jpg" alt="6 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Six.JPG" alt="6 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Seven.jpg" alt="7 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Seven.JPG" alt="7 slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Eight.jpg" alt="8 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Eight.JPG" alt="8 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Nine.jpg" alt="9 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Nine.JPG" alt="9 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Ten.jpg" alt="10 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Ten.JPG" alt="10 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Eleven.jpg" alt="11 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Eleven.JPG" alt="11 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Twelve.jpg" alt="12 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Twelve.JPG" alt="12 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Thirteen.jpg" alt="13 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Thirteen.JPG" alt="13 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Fourteen.jpg" alt="14 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Fourteen.JPG" alt="14 slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Fifteen.jpg" alt="15 slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Medical-Camps/Fifteen.JPG" alt="15 slide">
     </div>
 
 </div>
@@ -1656,23 +1656,23 @@ li{
 <div id="carouselExampleFade12" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/One.jpg" alt="First slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/One.JPG" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Two.jpg" alt="Second slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Two.JPG" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Three.jpg" alt="Third slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Three.JPG" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Four.jpg" alt="four slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Four.JPG" alt="four slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Five.jpg" alt="five slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Five.JPG" alt="five slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Six.jpg" alt="six slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/BPT-Vaccine-Drive/Six.JPG" alt="six slide">
     </div>
 
 
