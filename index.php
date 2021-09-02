@@ -278,6 +278,33 @@ padding-right: 30px;
   width: 100%;
 }
 
+@media screen and (max-width: 400px){
+.testimonial-item {
+  height: 60vh;
+
+}
+}
+
+@media screen and (max-width: 300px){
+.testimonial-item {
+  height: 60vh;
+
+}
+.carousel-item .testimonial-item center p {
+    font-size: 12px;
+    line-height: 30px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+.carousel-item .tt1 center h1 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+}
+
 </style>
 <title>Sri Sathya Sai Vidyaniketan | Home</title>
 
