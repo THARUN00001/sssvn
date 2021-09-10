@@ -87,7 +87,7 @@
 
 
 
-<div data-aos="fade-right" style="background:  url(img/Unique-Facets-Page/banner.jpeg); width: 100%;height:480px;background-position-y:30% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white; " class=" heading w3l-inner-page-main .breadcrumb-infhny w3l-inner-page-main .breadcrumb-infhny::before" id="">
+<div data-aos="fade-right" style="background:  url(img/Unique-Facets-Page/banner.jpeg); width: 100%;height:480px;background-position-y:30% ;background-position-x:45% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white; " class=" heading w3l-inner-page-main .breadcrumb-infhny w3l-inner-page-main .breadcrumb-infhny::before" id="">
 
     <center>
         <h2 class="unique_title" style="color:white">
@@ -117,15 +117,14 @@
         <div class="uf_one">
 
             <div class="col-lg-5" style="float:right">
-                <br>
-                <br>
+               
                 <img style=" height:100%; width:100%; margin: 15px 15px 15px 0 ; border-radius:15px;" src="img/VBE 1.JPG" alt="">
-                <br>
-                <br>
+              
+           
             </div>
 
             <div class="col-lg-7">
-                <br>
+         
 
                 <br>
                 <p style="font-size:17px; line-height:28px; color:black">
@@ -149,17 +148,13 @@
         <div class="uf_two" style="margin-bottom:50px;">
 
             <div class="col-lg-5" style="float:left;">
-                <br>
-                <br>
-                <br>
-                <br>
-                <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/VBE2.jpg" alt="">
-                <br>
-                <br>
+            
+                <img style=" height:100%; width:100%; border-radius:15px;  margin: 15px 15px 15px 0 ; "  src="img/VBE2.jpg" alt="">
+            
             </div>
 
             <div class="col-lg-7 col-md-12">
-                <p style="font-size:18px; line-height:30px; color:black; margin:45px;">
+                <p style="font-size:18px; line-height:30px; color:black;  ">
                     <!-- SSSVV's main objective is to design curriculum embeded with values and train teachers on how to impart them to students. <br> <br> -->
                     <br>
                     All teachers at SSSVN undergo Vidya Vahini training sessions regularly and are well equipped to impart Educare to the students. We invite qualified and trained resource persons to train the teachers to impart Value Based Education.
@@ -179,8 +174,7 @@
         <div class="uf_three">
 
             <div class=" col-lg-5 col-sm-12" style="float:right">
-                <br>
-                <br>
+              
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px;   border-radius:15px;" src="img/Unique-Facets-Page/CCA1.jpeg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px; margin-top:45px;" src="img/Unique-Facets-Page/CCA2.jpeg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/CCA3.jpeg" alt=""> </div>
@@ -193,8 +187,7 @@
 
                 <br>
                 <h1 class="hny-title">Co-Curricular Activities</h1>
-                <br>
-                <br>
+           
                 <p style="font-size:18px; line-height:30px; color:black;">
                     We encourage the students to organise and participate in a host of co-curricular activities to enable their all round development. We also seamlessly integrate values into every activity, which leads to students enthusistically embracing the values. Over a period of time the values become an integral part of their lives.
                 </p>
@@ -218,7 +211,7 @@
         <div class="uf_four" style="margin-bottom:50px;">
 
             <div class="col-lg-5" style="float:left;">
-                <img style=" height:300px; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/Parent-Care.jpg" alt="">
+                <img style=" height:260px; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/Parent-Care.jpg" alt="">
 
             </div>
             <br>
@@ -228,9 +221,8 @@
 
             <div class="col-lg-7 ">
                 <h1 class="hny-title">Parent Care</h1>
-                <br>
-                <br>
-                <p style="font-size:18px; line-height:30px; color:black; margin-left:65px !important;">Parents are an integral part of the Sathya Sai system of education. We at SSSVN, take personal note of every family that sends their children to our school. We are personally aware of their backgrounds and provide ample assistance to the needy, by subsidising the cost , providing education totally free to needy families and also identifying sponsors to support students.
+             
+                <p style="font-size:18px; line-height:30px; color:black; margin-left:25px !important;">Parents are an integral part of the Sathya Sai system of education. We at SSSVN, take personal note of every family that sends their children to our school. We are personally aware of their backgrounds and provide ample assistance to the needy, by subsidising the cost , providing education totally free to needy families and also identifying sponsors to support students.
             </div>
 
 
@@ -243,8 +235,7 @@
         <div class="uf_five">
 
             <div class="col-lg-5" style="float:right">
-                <br>
-                <br>
+             
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px;   border-radius:15px;" src="img/Unique-Facets-Page/PP1.jpg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px; margin-top:45px;" src="img/Unique-Facets-Page/PP2.jpg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/PP3.jpeg" alt=""> </div>
@@ -257,7 +248,7 @@
                 <br>
                 <h1 class="hny-title">Parents Participation</h1>
 
-                <br>
+               
                 <p style="font-size:18px; line-height:30px; color:black">
                     We hold regular parents meetings where parents are updated about the overall progress of their child. Every parent has a one to one interaction with the class teacher to get up-to-date info about their child. We also take inputs from parents on how to improve their child.
                     In addition to this, we actively involve parents in various activities like parents sports, and values based events where parents and their children participate together. Like Matru Vandana, Gokulashtami, Here the students are shown how to respect and revere their parents.</p>
@@ -271,7 +262,7 @@
 <br>
 <br>
 <center>
-    <div id="CommunityService" style="background: url(img/Unique-Facets-Page/CS2.JPG);background-position-y:15% ;background-size:cover ;background-repeat: no-repeat; opacity:0.5px; ;background-size: cover;background-repeat: no-repeat; ;width:100%;" class="uf_six" data-aos="fade-right">
+    <div id="CommunityService" style="background: url(img/Unique-Facets-Page/CS2.JPG);background-position-y:15% ;background-position-x:35% ;background-size:cover ;background-repeat: no-repeat; opacity:0.5px; ;background-size: cover;background-repeat: no-repeat; ;width:100%;" class="uf_six" data-aos="fade-right">
 
         <br>
         <br>

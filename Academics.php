@@ -12,6 +12,7 @@
 Style 4
 ----------------------*/
 .team-circle{
+	height:90%;
 	width:80%;
 	position: relative;
         text-align: center;
@@ -4306,7 +4307,7 @@ Academics
 	<br>
 	<br>
 	<div data-aos="fade-right" class="row">
-	 		<div class="col-md-3 col-sm-12 ">
+	 		<div class="col-md-3 col-sm-6 col-6">
 	 			<div class="team-circle">
 	 				<div class="team-circle-img">
 					<img src="img/teachers_photos/Narasimha-reddy.jpg" alt="img">
@@ -4320,6 +4321,18 @@ Academics
 	 			</div>
 	 		</div>
 
+			
+			 <div class="col-md-3 col-sm-6 col-6">
+	 			<div class="team-circle">
+	 				<div class="team-circle-img">
+					 <img src="img/teachers_photos/Murali.jpg" alt="img">
+	 				</div>
+	 				<div class="team-circle-text">
+	 					<h4 class="light">Murali</h4>
+						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:  <span style="color:#da2945;">    M.A.,B.Ed.</span> </h5>
+	 				</div>
+	 			</div>
+	 		</div>
 			
 			
 			
@@ -4398,63 +4411,7 @@ Academics
 	 			</div>
 	 		</div>
 </div>
-		<div data-aos="fade-right" class="row">
 
-<div class="col-md-3 col-sm-6 col-6">
-	 			<div class="team-circle">
-	 				<div class="team-circle-img">
-					 <img src="img/teachers_photos/Murali.jpg" alt="img">
-	 				</div>
-	 				<div class="team-circle-text">
-	 					<h4 class="light">Murali</h4>
-						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:  <span style="color:#da2945;">    M.A.,B.Ed.</span> </h5>
-	 				</div>
-	 			</div>
-	 		</div>
-			
-			
-		
-		
-<div class="col-md-3 col-sm-6 col-6">
-	 			<div class="team-circle">
-	 				<div class="team-circle-img">
-					 <img src="img/teachers_photos/Nandini.jpg" alt="img">
-	 				</div>
-	 				<div class="team-circle-text">
-	 					<h4 class="light">Nandini</h4>
-						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:   <span style="color:#da2945;"> B.A. </span>  </h5>
-
-	 				</div>
-	 			</div>
-	 		</div>
-			
-			
-	 		<div class="col-md-3 col-sm-6 col-6">
-	 			<div class="team-circle">
-	 				<div class="team-circle-img">
-					 <img src="img/teachers_photos/Nirmala.jpg" alt="img">
-	 				</div>
-	 				<div class="team-circle-text">
-	 					<h4 class="light">Nirmala</h4>
-						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:  <span style="color:#da2945;"> B.A.,B.Ed </span> </h5>
-
-	 				</div>
-	 			</div>
-	 		</div>
-
-	 		<div class="col-md-3 col-sm-6 col-6">
-	 			<div class="team-circle">
-	 				<div class="team-circle-img">
-					 <img src="img/teachers_photos/peer-Bhakthar.jpg" alt="img">
-	 				</div>
-	 				<div class="team-circle-text">
-	 					<h4 class="light">Peer Bhaktar</h4>
-						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:  <span style="color:#da2945;"> M.A.,B.A.,B.Ed.  </span> </h5>
-			
-	 				</div>
-	 			</div>
-	 		</div>
-			</div>
 		<div data-aos="fade-right" class="row">
 			
 		
@@ -4626,6 +4583,35 @@ Academics
 
 		<div data-aos="fade-right" class="row">
 
+
+		
+
+		<div class="col-md-3 col-sm-6 col-6">
+	 			<div class="team-circle">
+	 				<div class="team-circle-img">
+					 <img src="img/teachers_photos/peer-Bhakthar.jpg" alt="img">
+	 				</div>
+	 				<div class="team-circle-text">
+	 					<h4 class="light">Peer Bhaktar</h4>
+						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:  <span style="color:#da2945;"> M.A.,B.A.,B.Ed.  </span> </h5>
+			
+	 				</div>
+	 			</div>
+	 		</div>
+
+
+		<div class="col-md-3 col-sm-6 col-6">
+	 			<div class="team-circle">
+	 				<div class="team-circle-img">
+					 <img src="img/teachers_photos/Nandini.jpg" alt="img">
+	 				</div>
+	 				<div class="team-circle-text">
+	 					<h4 class="light">Nandini</h4>
+						 <h5 style="color:#106eea" class="light italic libre-baskerville">Qualification:   <span style="color:#da2945;"> B.A. </span>  </h5>
+
+	 				</div>
+	 			</div>
+	 		</div>
 		
 			 <div class="col-md-3 col-sm-6 col-6">
 	 			<div class="team-circle">
@@ -4655,7 +4641,13 @@ Academics
 	 			</div>
 	 		</div>
 	 	
-	 		<div class="col-md-4 col-sm-6 col-lg-3">
+	
+</div>
+<div data-aos="fade-right" class="row">
+		
+
+
+<div class="col-md-4 col-sm-6 col-lg-3">
 	 			<div class="team-circle">
 	 				<div class="team-circle-img">
 					 <img src="img/teachers_photos/Subramani.jpg" alt="img">
@@ -4667,8 +4659,11 @@ Academics
 	 				</div>
 	 			</div>
 	 		</div>
+
+
+
+	 
 </div>
-		
 		
 	
 
@@ -4697,7 +4692,7 @@ Academics
 <figure class="imghvr-fade">
 <!-- <div style="width:100%;height:80%;" class="team-circle"> -->
 <div class="team-circle-img">
-					<img src="img/demoimg.jpeg" alt="img" style="height: 120px;">
+					<img src="img/demoimg.jpeg" alt="img" style="height: 100px;">
 	 				</div>
 					 <br>
 					 <div class="team-circle-text_res">

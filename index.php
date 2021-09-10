@@ -319,13 +319,7 @@ padding-right: 30px;
     ####################################################
     -->
 <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="6000">
-  <!-- <ol class="carousel-indicators">
-            <li data-target="#carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel" data-slide-to="1"></li>
-            <li data-target="#carousel" data-slide-to="2"></li>
-            <li data-target="#carousel" data-slide-to="3"></li>
-            <li data-target="#carousel" data-slide-to="4"></li>
-        </ol> -->
+
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
       <a href="#">
@@ -641,10 +635,10 @@ padding-right: 30px;
 
         <div class="row">
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box" style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" data-aos="fade-up" data-aos-delay="100">
               
-                  <div class="card" style=" margin-bottom:15px;">
-                    <img src="img/vbe.jpg" class="card-img" alt="...">
+                  <div class="card" style=" margin-bottom:15px; border:0;">
+                    <img  src="img/vbe.jpg" class="card-img" alt="...">
 
               
               </div>
@@ -664,8 +658,8 @@ padding-right: 30px;
           </div>
        
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="card" style=" margin-bottom:15px;">
+            <div class="icon-box" style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" data-aos="fade-up" data-aos-delay="200">
+            <div class="card" style=" margin-bottom:15px; border:0;">
                     <img src="img/Parents Participation1.JPG" class="card-img" alt="...">
             </div>
 
@@ -684,10 +678,10 @@ padding-right: 30px;
           </div>
          
           <div class="col-md-12 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <!-- <div class="icon text-center"><i> <img src="img/team.svg" width="55" height="55" alt=""></i></div> -->
-              <div class="card" style=" margin-bottom:15px;">
-                    <img src="img/Community Service.JPG" class="card-img" alt="...">
+              <div class="card" style=" margin-bottom:15px; border:0;">
+                    <img  src="img/Community Service.JPG" class="card-img" alt="...">
               </div>
 
               <p class="description"> Going beyond transforming a family to <br> transforming the society through <br><br> <strong class="gbe"style="color: #1664cd; font-size:35px;">

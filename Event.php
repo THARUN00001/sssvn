@@ -182,12 +182,6 @@ li{
   padding:5px;
 }
 
-.events{
-  align-items:center;
-  text-align:center;
-  height:51vw !important; width:70%;
-
-}
 
 .carousel-control-next{
   position: absolute;
@@ -197,6 +191,12 @@ li{
 .carousel-control-prev{
   position: absolute;
   left: 10%;
+}
+.events{
+  align-items:center;
+  text-align:center;
+  height:51vw !important; width:70%;
+
 }
 
 .events_carousel{

@@ -839,7 +839,7 @@
                         </div> -->
                 </div>
                 <div class="col-lg-6 welcome-image">
-                    <img src="img/scan0006.jpg" class="img-fluid" alt="" />
+                    <img src="img/scan0006.jpg" style="margin:0;" class="img-fluid" alt="" />
                 </div>
 
             </div>
@@ -995,7 +995,7 @@
                     <img src="assets/img/team/team-1.jpg" alt="img">
                 </div> -->
                 <div class="team-circle-text">
-                    <h4 class="light" style="color:#dc3545;">A. S. Srinivasa Murthy</h4>
+                    <h4  class="light" style="color:#dc3545;padding-top: 0px;">A. S. Srinivasa Murthy</h4>
                 </div>
             </div>
         </div>
@@ -1005,7 +1005,7 @@
                     <img src="assets/img/team/team-1.jpg" alt="img">
                 </div> -->
                 <div class="team-circle-text">
-                    <h4 class="light" style="color:#dc3545;">Y. Srinivasa Reddy</h4>
+                    <h4 class="light" style="color:#dc3545;padding-top: 0px;">Y. Srinivasa Reddy</h4>
                    
                 </div>
             </div>
@@ -1016,7 +1016,7 @@
                     <img src="assets/img/team/team-1.jpg" alt="img">
                 </div> -->
                 <div class="team-circle-text">
-                    <h4 class="light" style="color:#dc3545;">C. V. Ravindranath Rao</h4>
+                    <h4 class="light" style="color:#dc3545;padding-top: 0px;">C. V. Ravindranath Rao</h4>
                     
                 </div>
             </div>
