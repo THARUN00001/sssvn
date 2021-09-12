@@ -285,12 +285,29 @@ padding-right: 30px;
 
 @media screen and (max-width: 400px){
 .testimonial-item {
-  height: 60vh;
+  height: 55vh;
 
+}
+.carousel-item .testimonial-item center p {
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+.carousel-item .tt1 center h1 {
+    font-size: 21px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.carousel-item .testimonial-item center h1 {
+    font-size: 22px;
+    padding-top: 20px;
 }
 }
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 320px){
 .testimonial-item {
   height: 60vh;
 
@@ -307,6 +324,10 @@ padding-right: 30px;
     margin-top: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
+}
+.carousel-item .testimonial-item center h1 {
+    font-size: 20px;
+    padding-top: 20px;
 }
 }
 
@@ -354,7 +375,7 @@ padding-right: 30px;
     <!-- /.carousel-item -->
     <div class="carousel-item">
       <a href="#">
-        <div class="testimonial-item item2" style="color:white; background: url('img/ban4.jpeg'); background-size:100% 100%;">
+        <div class="testimonial-item item2" style="color:white; background: url('img/ban444.jpeg'); background-size:100% 100%;">
           <center>
             <br>
             <br>

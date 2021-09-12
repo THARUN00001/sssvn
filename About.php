@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <style>
     .w3l-inner-page-main .breadcrumb-infhny {
-        background: url('img/about_us.jpg') no-repeat center;
+        background: url('img/about_us.JPG') no-repeat center;
         background-size: cover;
         -webkit-background-size: cover;
         -o-background-size: cover;
@@ -776,6 +776,26 @@
             width: 230px;
         }
     }
+    .fourthi img{
+        height:250px;
+    }
+    @media only screen and (max-width: 760px) {
+        .fourthi img{
+        height:200px;
+    }
+    }
+
+    @media only screen and (max-width: 450px) {
+        .fourthi img{
+        height:150px;
+    }
+    }
+
+    @media only screen and (max-width: 380px) {
+        .fourthi img{
+        height:100px;
+    }
+    }
 </style>
 
 <title>Sri Sathya Sai Vidyaniketan | About Us</title>
@@ -868,8 +888,8 @@
                             <div class="mission-sec-gd">
                                 <img src="ssimg/2001/2001 d.jpg" alt="" class="img-fluid" />
                             </div>
-                            <div class="mission-sec-gd">
-                                <img src="img/Our Vision 3i.jpg" alt="" class="img-fluid" />
+                            <div class="mission-sec-gd fourthi">
+                                <img src="img/Our Vision 3ii.jpg" alt="" class="img-fluid" / >
                             </div>
 
                         </div>

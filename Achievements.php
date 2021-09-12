@@ -137,6 +137,7 @@
         height: auto;
         margin-left: 0px;
         padding-left: 0px;
+        /* margin-bottom: 400px; */
 
     }
 
@@ -147,7 +148,7 @@
     .aa img {
         align-items: center;
         width: 600px;
-        height: 900px;
+        height: 1000px;
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -279,7 +280,7 @@
     margin-left:15% ;
     }
 .sports img{
-    height: 600px;
+    height: 900px;
 }
 
     @media screen and (max-width: 725px) {
@@ -358,7 +359,21 @@
 
 }
 }
-    
+.sports{
+height: 900px;
+}  
+@media screen and (max-width: 400px) {
+    .testimonial-item {
+    height: 300px;
+}
+.sportsgame{
+height: 300px;
+}
+.sports{
+height: 400px;
+}  
+}
+  
 </style>
 <title>Sri Sathya Sai Vidyaniketan | Achievement</title>
 
@@ -544,6 +559,7 @@
         </div>
 </section>
 
+
 <section id="Accreditations">
     <div>
 
@@ -553,7 +569,7 @@
             <h2 class="secondd" style="color: #da2945;;">Accreditation Certificate</h2>
 
         </div>
-        <div class="sports aa" data-aos="fade-right">
+        <div class=" aa" data-aos="fade-right">
             <img src="collage/Acceriditation.jpg" alt="" srcset="">
         </div>
 </section>
