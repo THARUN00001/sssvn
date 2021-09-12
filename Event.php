@@ -27,6 +27,8 @@
 
 
     h1 {
+      margin-top: 100px !important;
+  margin-bottom: -60px;
         font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -41,6 +43,8 @@ color: #1664CD;
 
 
 .h3{
+  margin-top:120px;
+  margin-bottom: 20px;
     font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -66,6 +70,7 @@ h1{
 }
 h1{
   font-size: 32px;
+
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
@@ -356,25 +361,25 @@ li{
             <nav class="navbar navbar-expand-lg navbar-light fill">
                 <div class="container-fluid">
         </header>
-        <br>
-        <br>
-        <br>
-        <br>
+         
+         
+         
+         
        
 
         <!-- /breadcrumbs-->
         <div  class="container" data-aos="fade-left" >
             <nav aria-label="breadcrumb" class="breadcrumb-info">
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-         
-            <br>
+             <br>
+             <br>
+             <br>
+             <br>
+             <br>
+             <br>
+         <br>
+           <br>  
             <center>
-            <h2 data-aos="fade-right" style="font-size:43px; color:white;">Events</h2>
+            <h2 data-aos="fade-right" style="font-size:43px; color:white; margin:0;">Events</h2>
             </center>    
             <!-- <ol class="breadcrumb mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -386,11 +391,11 @@ li{
     </div>
     <!--//banner-slider-->
 </section>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
 <center>
 <section>
 <div class="container" style="width:80%; height:auto; padding:30px;   font-size:19px; border:2px solid #da2945; border-radius:10px;" > 
@@ -413,7 +418,7 @@ li{
   </li>
 </ul>
 </center>
-<br>
+ 
 
 <div class="tab-content" id="pills-tabContent" style="text-align: left;">
   <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
@@ -663,48 +668,27 @@ li{
 </center>
 
 
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 
 <center> 
     <h1>Special Events </h1> 
-    <br>
+     
 
-    <br>
+     
     <h3 class="h3" id="2001">Swami's Visit-2001</h3>
-    <br>
-    <br>
+     
+     
     <img  class="events"  src="Selected-School-Images/2001/2001.jpg" alt="">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 class="h3" id="2002">Swami's Visit-2002</h3>
-<br>
-<br>
-<br>
-<img class="events" src="Selected-School-Images/2002/2002.jpg" alt="">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
+<h3 class="h3" id="2002">Swami's Visit-2002</h3>
+
+<img class="events" src="Selected-School-Images/2002/2002.jpg" alt="">
+
 <h3 class="h3" id="2007"> Shirdi Nivasa Sai Drama at Prashanti Nilayam - 2007 </h3>
-<br>
-<br>
-<br>
-<br>
+
 </center>
 <center> 
 <div   id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
@@ -753,62 +737,27 @@ li{
 </div>
 
 </center>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+
     <center> 
     <h1>  Annual Events  </h1>
- 
-    <br>
+
     <h3 id="environment_Day " class="h3">Environment Day </h3>
-<br>
-<br>    
-    <br>
-    <br>
+ 
+
+     
     <img class="events" id="environment_Day"   src="Selected-School-Images/Environment-Day/environmental-day.jpg" alt="">
-    <br>
-    <br>
-    <br>
-<br>
-<br>
-    <br>
-    <br>
-    <br>
+
+
     <h3 id="school_Inauguration_Day" class="h3"> School Inauguration Day 2021 </h3>
-<br>
 
-<br>
-<br>
-<br>
-<br>
 <img class="events"  src="Selected-School-Images/School-inaugaration-day/SID.jpg" alt="">
-<br>
 
-<br>
-<br>
-<br>
 <h3 id="yoga_day" class="h3"> International Yoga Day </h3>
-<br>
-<br>
-<br>
-<br>
+
 <img class="events"  src="Selected-School-Images/Yoga-Day/yoga-day.png" alt="">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h3 id="Krishna_Janmastami" class="h3">Krishna Janmastami</h3>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <div style="object-fit: cover !important; height:50% !important;" id="carouselExampleFade2" class="carousel slide carousel-fade" data-ride="carousel">
@@ -865,17 +814,9 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 id="Raksha_Bhandan" class="h3">Raksha Bhandan</h3>
-<br>
 
-<br>
-<br>
+<h3 id="Raksha_Bhandan" class="h3">Raksha Bhandan</h3>
+
 <div id="carouselExampleFade3" class="carousel slide carousel-fade" data-ride="carousel">
   <div  class="carousel-inner">
     <div  class="carousel-item active">
@@ -919,38 +860,24 @@ li{
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 id="Independence_Day" class="h3"> Independence Day </h3>
-<br>
-<br>
 
-<br>
+<h3 id="Independence_Day" class="h3"> Independence Day </h3>
+
 <img class="events" class="d-block w-100" src="Selected-School-Images/Independence-Day/independence-day.jpg" alt="Second slide">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h3 id="Ganesh_Chaturthi" class="h3"> Ganesh Chaturthi </h3>
-<br>
-<br>
-<br>
+
 <img class="events" class="d-block w-100" src="Selected-School-Images/Ganesh-Chaturthi/Ganesha-chaturthi.jpg" alt="Second slide">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Teachers_Day" class="h3"> Teachers Day </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade10" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -996,20 +923,20 @@ li{
 
 
 
-<br>
+ 
 
 <h3 id="Gandhi_Jayanthi" class="h3"> Gandhi Jayanthi </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Gandhi-Jayanthi/gandhi-jayanthi.jpg" alt="Second slide">
 
 
-<br>
+ 
 <h3 id="Childrens_Day" class="h3"> Childrens Day </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade16" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1051,32 +978,32 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-<br>
+ 
 <h3 id="Hospital_Seva"  class="h3">Swami Birthday - Hospital Seva </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Sathya-Sai-Birthday/Hospital-Seva/hospital-seva.jpg" alt="Second slide">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Narayana_Seva"  class="h3">Swami Birthday - Narayana Seva </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Sathya-Sai-Birthday/ns/ns.jpg" alt="Second slide">
 
 
@@ -1084,40 +1011,40 @@ li{
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
 <h3 id="Laksha_Deepotsava"  class="h3">Swami Birthday - Laksha Deepotsava </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Sathya-Sai-Birthday/Laksha-Deepotsava/Laksha-Deepotsava.jpg" alt="Second slide">
 <!-- img -->
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
 <h3 id="Diwali" class="h3"> Diwali </h3>
-<br>
-<br>
+ 
+ 
 <center>  <h2  style="font-size:23px ;color:#106eea;"> Students have saved the money given to them to buy crackers and used it to purchase provisions to distribute to the needy.  </h2>  </center>
- <br>
-<br>
+  
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Diwali/diwali.jpg" alt="Second slide">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Parents_Sports" class="h3"> Parents Sports </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="ParentsSports" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1162,16 +1089,16 @@ li{
     <span class="sr-only">Next</span>
   </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="School_Annual_Day" class="h3"> School Annual Day</h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade5" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1218,38 +1145,38 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Republic_Day" class="h3"> Republic Day </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Republic-Day/republic-day.jpg" alt="Second slide">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Sarswathi_Pooja" class="h3"> Sarswathi Pooja</h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img  class="events" class="d-block w-100" src="Selected-School-Images/Sarswathi-Pooja/saraswathi-pooja.jpg" alt="Second slide">
 
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <h3 id="Mathru_Vandana" class="h3"> Mathru Vandana </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="MathruVandana" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1299,18 +1226,18 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <h3 id="Swami_Aradhana_Day" class="h3"> Swami Aradhana Day</h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade7" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1360,45 +1287,45 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 
 <h1> Other Events </h1>
-<br>
+ 
 
-<br>
+ 
 <h3 id="Science_Talent_Exam" class="h3"> Science Talent Exam </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/STE/STE.jpg" alt="Second slide">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Youth_Conference" class="h3"> Youth Conference </h3>
 
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Yuva-Samavesha/Yuva-Samavesha.jpg" alt="Second slide">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 
 <h3 id="Grama_Seva" class="h3"> Grama Seva</h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade8" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1490,17 +1417,17 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 
 <h3 id="Medical_Camps" class="h3"> Medical Camps</h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade9" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="events_carousel" class="carousel-inner">
@@ -1570,40 +1497,40 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="EHV_Training_Programs_for_Teachers" class="h3"> EHV Training Programs for Teachers </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Teachers-Training/teachers-training-day.jpg" alt="Second slide">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Parenting_Programs" class="h3"> Parenting Programs </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Parenting-Program/parenting-program.jpg" alt="Second slide">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 id="Amrutha_Kalasha" class="h3"> Distribution of Amrutha Kalasha Ration Kits to Teachers and Staff </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade11" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1642,16 +1569,16 @@ li{
   </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3  class="h3" id="bpt">BPT Vaccine Drive </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade12" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1687,33 +1614,33 @@ li{
     <span class="sr-only">Next</span>
   </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 
-<br>
+ 
 <h3  class="h3" id="kannada_Rajastova"> Kannada Rajastova </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 <img class="events" class="d-block w-100" src="Selected-School-Images/Kannada-Rajastova/Kannada-Rajastova.jpg" alt="Second slide">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 
 
-<br>
+ 
 <h3  class="h3" id="swach_bharath"> Swacha Bharath </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 
 <div id="swachaBharath" class="carousel slide carousel-fade" data-ride="carousel">
@@ -1764,16 +1691,16 @@ li{
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3  class="h3" id="aksharabhyasa">Aksharabhyasa </h3>
-<br>
-<br>
-<br>
+ 
+ 
+ 
 
 <div id="carouselExampleFade14" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
@@ -1814,10 +1741,10 @@ li{
 
 
 
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+ 
+ 
 
 </center>
 
