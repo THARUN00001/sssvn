@@ -889,7 +889,7 @@
                                 <img src="ssimg/2001/2001 d.jpg" alt="" class="img-fluid" />
                             </div>
                             <div class="mission-sec-gd fourthi">
-                                <img src="img/Our Vision 3ii.jpg" alt="" class="img-fluid" / >
+                                <img src="img/Our Vision 3iii.jpg" alt="" class="img-fluid" / >
                             </div>
 
                         </div>

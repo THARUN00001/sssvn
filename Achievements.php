@@ -367,11 +367,17 @@ height: 900px;
     height: 300px;
 }
 .sportsgame{
-height: 300px;
+height: 70vw;
 }
 .sports{
 height: 400px;
 }  
+.carousel-item .item5{
+    height: 262px;
+    object-fit:cover;
+  
+}
+
 }
   
 </style>
@@ -407,34 +413,16 @@ height: 400px;
             <h3>Sports & Games</h3>
         </div>
         <div id="carousel" class="carousel slide carousel-fade sportsgame" data-ride="carousel" data-interval="6000">
-            <!-- <ol class="carousel-indicators">
-            <li data-target="#carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel" data-slide-to="1"></li>
-            <li data-target="#carousel" data-slide-to="2"></li>
-            <li data-target="#carousel" data-slide-to="3"></li>
-            <li data-target="#carousel" data-slide-to="4"></li>
-        </ol> -->
+           
             <div class="carousel-inner" role="listbox">
-                <!-- <div class="carousel-item active">
-                    <a href="#">
-                        <div class="testimonial-item" style="color:white; width:100%;  background: url('sportss/neww.jpg'); background-size:100% 100%;">
-                        </div>
-                    </a>
-                </div> -->
-                <!-- <div class="carousel-item">
-                    <a href="#">
-                        <div class="testimonial-item game1" style="color:white;width:100%; background: url('Selected-School-Images/Students-Sports-Day/students-sports-day.png'); background-size:100% 100%;">
-                        </div>
-                    </a>
-                </div> -->
-                <!-- /.carousel-item -->
+              
                 <div class="carousel-item active">
                     <a href="#">
                         <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/2018-19 Taluk level Handball.jpg'); background-size:100% 100%;">
                         </div>
                     </a>
                 </div>
-                <!-- /.carousel-item -->
+                
                 <div class="carousel-item">
                     <a href="#">
                         <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball 2019-20.jpg'); background-size:100% 100%;">
@@ -462,9 +450,9 @@ height: 400px;
                         </div>
                     </a>
                 </div>
-                <div class="carousel-item">
+                <div class="carousel-item item55">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/National Level2019-20.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item item5" style="color:white;width:100%; background: url('sportss/National Level2019-200.jpg'); background-size:100% 100%;">
                         </div>
                     </a>
                 </div>
