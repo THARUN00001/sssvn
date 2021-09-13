@@ -81,6 +81,20 @@
         }
 
     }
+
+    @media screen and (max-width: 992px) {
+        .reordered {
+            display: grid;
+        }
+
+        .reordered .first_order {
+            order: 2;
+        }
+
+        .reordered .second_order {
+            order: 1;
+        }
+    }
 </style>
 
 <title>Sri Sathya Sai Vidyaniketan | Unique Facets</title>
@@ -112,19 +126,19 @@
             </h1>
         </center>
     </div>
-  
-    <section data-aos="fade-right" style="margin-bottom:20px ">
-        <div class="uf_one">
 
-            <div class="col-lg-5" style="float:right">
-               
+    <section data-aos="fade-right" style="margin-bottom:20px ">
+        <div class="uf_one reordered">
+
+            <div class="col-lg-5 first_order" style="float:right">
+
                 <img style=" height:100%; width:100%; margin: 15px 15px 15px 0 ; border-radius:15px;" src="img/VBE 1.JPG" alt="">
-              
-           
+
+
             </div>
 
-            <div class="col-lg-7">
-         
+            <div class="col-lg-7 second_order">
+
 
                 <br>
                 <p style="font-size:17px; line-height:28px; color:black">
@@ -145,15 +159,15 @@
 
 
 
-        <div class="uf_two" style="margin-bottom:50px;">
+        <div class="uf_two reordered" style="margin-bottom:50px;">
 
-            <div class="col-lg-5" style="float:left;">
-            
-                <img style=" height:100%; width:100%; border-radius:15px;  margin: 15px 15px 15px 0 ; "  src="img/VBE2.jpg" alt="">
-            
+            <div class="col-lg-5 first_order" style="float:left;">
+
+                <img style=" height:100%; width:100%; border-radius:15px;  margin: 15px 15px 15px 0 ; " src="img/VBE2.jpg" alt="">
+
             </div>
 
-            <div class="col-lg-7 col-md-12">
+            <div class="col-lg-7 col-md-12 second_order">
                 <p style="font-size:18px; line-height:30px; color:black;  ">
                     <!-- SSSVV's main objective is to design curriculum embeded with values and train teachers on how to impart them to students. <br> <br> -->
                     <br>
@@ -171,10 +185,10 @@
 
 
     <section style="margin-bottom:20px " data-aos="fade-right" id="Co-CurricularActivities">
-        <div class="uf_three">
+        <div class="uf_three reordered">
 
-            <div class=" col-lg-5 col-sm-12" style="float:right">
-              
+            <div class=" col-lg-5 col-sm-12 first_order" style="float:right">
+
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px;   border-radius:15px;" src="img/Unique-Facets-Page/CCA1.jpeg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px; margin-top:45px;" src="img/Unique-Facets-Page/CCA2.jpeg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/CCA3.jpeg" alt=""> </div>
@@ -182,12 +196,12 @@
             </div>
 
             <br>
-            <div class="col-lg-7">
+            <div class="col-lg-7 second_order">
                 <br>
 
                 <br>
                 <h1 class="hny-title">Co-Curricular Activities</h1>
-           
+
                 <p style="font-size:18px; line-height:30px; color:black;">
                     We encourage the students to organise and participate in a host of co-curricular activities to enable their all round development. We also seamlessly integrate values into every activity, which leads to students enthusistically embracing the values. Over a period of time the values become an integral part of their lives.
                 </p>
@@ -208,9 +222,9 @@
 
 
 
-        <div class="uf_four" style="margin-bottom:50px;">
+        <div class="uf_four reordered" style="margin-bottom:50px;">
 
-            <div class="col-lg-5" style="float:left;">
+            <div class="col-lg-5 first_order" style="float:left;">
                 <img style=" height:260px; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/Parent-Care.jpg" alt="">
 
             </div>
@@ -219,9 +233,9 @@
 
 
 
-            <div class="col-lg-7 ">
+            <div class="col-lg-7 second_order ">
                 <h1 class="hny-title">Parent Care</h1>
-             
+
                 <p style="font-size:18px; line-height:30px; color:black; margin-left:25px !important;">Parents are an integral part of the Sathya Sai system of education. We at SSSVN, take personal note of every family that sends their children to our school. We are personally aware of their backgrounds and provide ample assistance to the needy, by subsidising the cost , providing education totally free to needy families and also identifying sponsors to support students.
             </div>
 
@@ -232,10 +246,10 @@
     </section>
 
     <section style="margin-bottom:20px " data-aos="fade-right" id="ParentsParticipation">
-        <div class="uf_five">
+        <div class="uf_five reordered">
 
-            <div class="col-lg-5" style="float:right">
-             
+            <div class="col-lg-5 first_order" style="float:right">
+
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px;   border-radius:15px;" src="img/Unique-Facets-Page/PP1.jpg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px; margin-top:45px;" src="img/Unique-Facets-Page/PP2.jpg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/PP3.jpeg" alt=""> </div>
@@ -243,12 +257,12 @@
             </div>
 
             <br>
-            <div class="col-lg-7">
+            <div class="col-lg-7 second_order">
 
                 <br>
                 <h1 class="hny-title">Parents Participation</h1>
 
-               
+
                 <p style="font-size:18px; line-height:30px; color:black">
                     We hold regular parents meetings where parents are updated about the overall progress of their child. Every parent has a one to one interaction with the class teacher to get up-to-date info about their child. We also take inputs from parents on how to improve their child.
                     In addition to this, we actively involve parents in various activities like parents sports, and values based events where parents and their children participate together. Like Matru Vandana, Gokulashtami, Here the students are shown how to respect and revere their parents.</p>
