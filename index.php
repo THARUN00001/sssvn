@@ -403,7 +403,7 @@ padding-right: 30px;
     <!-- /.carousel-item -->
     <div class="carousel-item " >
       <a href="#">
-        <div class="testimonial-item" style="color:white;width:100%; background: url('img/b3.jpg'); background-size:cover; background-position-x:40%;">
+        <div class="testimonial-item" style="color:white;width:100%; background: url('img/b3.jpg'); background-size:cover; background-position-x:40%;  background-position-y:40%;">
           <center>
             <br>
             <br>
