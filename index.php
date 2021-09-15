@@ -838,7 +838,7 @@ padding-right: 30px;
   <br>
   <br>
 
-<div class="made ma"><p class="end"><a class="a ab" style="color: #1664cd;">We Have Made a Difference .... </a></p></div>
+<div data-aos="fade-right" class="made ma"><p class="end"><a class="a ab" style="color: #1664cd;">We Have Made a Difference .... </a></p></div>
 
 
   <section class="w3l-customers-6" data-aos="zoom-in">
@@ -983,7 +983,7 @@ padding-right: 30px;
     </div>
 
 
-    <div class="made">
+    <div data-aos="fade-right" class="made">
       <p class="end"><a class="a" style="color: #1664cd;">
          <br>
           You Can Make a Difference Too</a> <br><br>

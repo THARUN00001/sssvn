@@ -2047,7 +2047,7 @@ Academics
                                         <!-- RESULTS -->
 										<center> 	
 
-	<div  class="section-heading center-holder" id="Result">
+	<div data-aos="fade-right"  class="section-heading center-holder" id="Result">
 
 			<h1  >Results</h1>	
 			
@@ -2055,7 +2055,7 @@ Academics
 </div>
 
 	
-	<div  class="section-heading center-holder">
+	<div data-aos="fade-right" class="section-heading center-holder">
 	
 			<br>
 			<br>	

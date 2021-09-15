@@ -409,7 +409,7 @@ height: 400px;
 <section id="Sports&Games">
     <div>
 
-        <div class="heading7" data-aos="fade-right">
+        <div class="heading7" >
             <h3>Sports & Games</h3>
         </div>
         <div id="carousel" class="carousel slide carousel-fade sportsgame" data-ride="carousel" data-interval="6000">
@@ -418,14 +418,14 @@ height: 400px;
               
                 <div class="carousel-item active">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/2018-19 Taluk level Handball.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/2018-19 Taluk level Handball.jpg'); background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball 2019-20.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball 2019-20.jpg'); background-size:cover; background-position-x:40%;">
                         </div>
                     </a>
                 </div>
@@ -433,87 +433,87 @@ height: 400px;
 
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Inter school State Level Handball Under 14 2019-20.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Inter school State Level Handball Under 14 2019-20.jpg'); background-size:cover; background-position-x:40%;">
                         </div>
                     </a>
                 </div>
 
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('img/achievement.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('img/achievement.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Inter school State Level Handball under 17.2018-19.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Inter school State Level Handball under 17.2018-19.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item item55">
                     <a href="#">
-                        <div class="testimonial-item item5" style="color:white;width:100%; background: url('sportss/National Level2019-200.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item item5" style="color:white;width:100%; background: url('sportss/National Level2019-200.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/State Level Athletcs Running 200mt 2018-19.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/State Level Athletcs Running 200mt 2018-19.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/State Level Handball Trophy Recived2019-20..jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/State Level Handball Trophy Recived2019-20..jpg'); background-size:cover; background-position-x:40%;">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Taluk Level Handball 2018-19.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Taluk Level Handball 2018-19.jpg');background-size:cover; background-position-x:40%;">
                         </div>
                     </a>
                 </div>
                     <div class="carousel-item">
                         <a href="#">
-                            <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball2019-20.jpg'); background-size:100% 100%;">
+                            <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball2019-20.jpg');background-size:cover; background-position-x:40%; ">
                             </div>
                         </a>
                     </div>
                     <div class="carousel-item">
                         <a href="#">
-                            <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball 2019-20..jpg'); background-size:100% 100%;">
+                            <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level Handball 2019-20..jpg'); background-size:cover; background-position-x:40%;">
                             </div>
                         </a>
                     </div>
                 
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Taluk Level 2018-19.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Taluk Level 2018-19.jpg'); background-size:cover; background-position-x:40%;">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/District1 Level Athletcs Running 100mts 2018-19.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/District1 Level Athletcs Running 100mts 2018-19.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level 2019-20..jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/Division Level 2019-20..jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/National Level 2018-19.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/National Level 2018-19.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>
                 <div class="carousel-item">
                     <a href="#">
-                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/state level handball 2019-20.jpg'); background-size:100% 100%;">
+                        <div class="testimonial-item" style="color:white;width:100%; background: url('sportss/state level handball 2019-20.jpg');background-size:cover; background-position-x:40%; ">
                         </div>
                     </a>
                 </div>

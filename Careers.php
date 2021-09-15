@@ -171,7 +171,7 @@
 
 <title>Sri Sathya Sai Vidyaniketan | Careers</title>
 
-<section class="w3l-banner-slider-main w3l-inner-page-main" data-aos="fade-right" >
+<section data-aos="fade-right" class="w3l-banner-slider-main w3l-inner-page-main"  >
     <div class="breadcrumb-infhny">
         <header class="top-headerhny">
             <!--/nav-->
@@ -179,7 +179,7 @@
                 <div class="container-fluid">
         </header>
         <!-- /breadcrumbs-->
-        <div class="container" data-aos="fade-left" >
+        <div class="container" data-aos="fade-right" >
             <nav aria-label="breadcrumb" class="breadcrumb-info">
                 <h2 class="hny-title text-center" style="font-weight: 500;">Careers</h2>
                 <!-- <ol class="breadcrumb mb-0">
@@ -193,19 +193,19 @@
     <!--//banner-slider-->
 </section>
 
-<section>
+<section data-aos="fade-left">
     <div class="container py-lg-5">
-        <div class="heading1 dates" data-aos="fade-right" >
+        <div class="heading1 dates"  >
             <h3>Careers</h3>
         </div>
         <div class="para1 paralast" style="text-align: center;">
-            <p data-aos="fade-right">We dont have any openings/vacancies for now <br> We will notify when required</p>
+            <p >We dont have any openings/vacancies for now <br> We will notify when required</p>
             <br>
             
             <br>
-            <p data-aos="fade-right">You can send your CV to</p>
+            <p >You can send your CV to</p>
 
-            <p class="cv" data-aos="fade-right"> sssvn561207@gmail.com</p>
+            <p class="cv" > sssvn561207@gmail.com</p>
         </div>
     </div>
 </section>
