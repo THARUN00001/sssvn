@@ -344,7 +344,7 @@ padding-right: 30px;
   <div class="carousel-inner" role="listbox" >
     <div class="carousel-item active">
       <a href="#">
-        <div class="testimonial-item tt1" style="color:white; width:100%; background: url('img/b1.jpg');background-size:cover; background-position-x:40%;">
+        <div class="testimonial-item tt1" style="color:white; width:100%; background: url('img/b1.jpg');background-size:cover; background-position-x:40%;background-position-x:20%;">
           <center>
             <br>
             <br>
@@ -668,7 +668,9 @@ padding-right: 30px;
                 </strong>
                 <center>
                   <div class="button-4-pink">
-                    <div class="eff-4-pink"></div>
+                    <div class="eff-4-pink">
+                     
+                    </div>
                     <a href="UniqueFacets#ValueBasedEducation"> Know More</a>
                   </div>
                 </center>
@@ -684,11 +686,13 @@ padding-right: 30px;
             </div>
 
               <p class="description">Going beyond transforming a student to <br> transforming a family through <br><br> <strong class="gbe" style="color: #1664cd;">
-                  <h3 style="text-align:center" >Parents Participation</h3>
+                  <h3 style="text-align:center" >Parents <br> Participation</h3>
                 </strong>
                 <center>
                   <div class="button-4-pink">
-                    <div class="eff-4-pink"></div>
+                    <div class="eff-4-pink">
+                    <br>
+                    </div>
                     <a href="UniqueFacets#ParentsParticipation"> Know More</a>
                   </div>
                 </center>
@@ -705,11 +709,12 @@ padding-right: 30px;
               </div>
 
               <p class="description"> Going beyond transforming a family to <br> transforming the society through <br><br> <strong class="gbe"style="color: #1664cd; font-size:35px;">
-                  <h3 style="text-align:center;" >Community Service </h3>
+                  <h3 style="text-align:center;" >Community <br> Service </h3>
                 </strong>
                 <center>
                   <div class="button-4-pink">
-                    <div class="eff-4-pink"></div>
+                    <div class="eff-4-pink">
+                    </div>
                     <a href="UniqueFacets#CommunityService"> Know More</a>
                   </div>
                 </center>
