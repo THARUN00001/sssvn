@@ -28,7 +28,7 @@
 
     h1 {
       margin-top: 100px !important;
-  margin-bottom: -60px;
+  margin-bottom: -90px !important;
         font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -398,7 +398,7 @@ li{
  
 <center>
 <section>
-<div class="container" style="width:80%; height:auto; padding:30px;   font-size:19px; border:2px solid #da2945; border-radius:10px;" > 
+<div class="container" style="width:80%; height:auto; padding:30px; margin-top:50px; font-size:19px; border:2px solid #da2945; border-radius:10px;" > 
 
 
 
@@ -741,7 +741,7 @@ li{
     <center> 
     <h1>  Annual Events  </h1>
 
-    <h3 id="environment_Day " class="h3">Environment Day </h3>
+    <h3  id="environment_Day " class="h3">Environment Day </h3>
  
 
      
