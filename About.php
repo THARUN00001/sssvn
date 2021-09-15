@@ -796,6 +796,19 @@
         height:100px;
     }
     }
+    @media screen and (max-width: 992px) {
+        .reordered {
+            display: grid;
+        }
+
+        .reordered .first_order {
+            order: 2;
+        }
+
+        .reordered .second_order {
+            order: 1;
+        }
+    }
 </style>
 
 <title>Sri Sathya Sai Vidyaniketan | About Us</title>
@@ -872,8 +885,8 @@
 <section class="w3l-specification-6" data-aos="fade-right" id="OurVision">
     <div class="specification-content py-5">
         <div class="container py-lg-5">
-            <div class="mission-grids-info row">
-                <div class="mission-gd-left col-lg-7">
+            <div class="mission-grids-info row reordered">
+                <div class="mission-gd-left col-lg-7 first_order">
                     <div class="grids-inn-ab">
                         <div class="sub-mission one-top">
                             <div class="mission-sec-gd">
@@ -895,7 +908,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mission-gd-right col-lg-5 pl-lg-4">
+                <div class="mission-gd-right col-lg-5 pl-lg-4 second_order">
 
                     <h3 class="hny-title" style="text-align: center;">Our Vision</h3>
                     <p style="text-align: center;">This is not an ordinary vision but a Divine <br> Vision with assurance<br><br>

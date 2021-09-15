@@ -339,9 +339,9 @@ padding-right: 30px;
     C A R O U S E L
     ####################################################
     -->
-<div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="6000">
+<div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="6000" >
 
-  <div class="carousel-inner" role="listbox">
+  <div class="carousel-inner" role="listbox" >
     <div class="carousel-item active">
       <a href="#">
         <div class="testimonial-item tt1" style="color:white; width:100%; background: url('img/b1.jpg'); background-size:100% 100%;">
@@ -373,7 +373,7 @@ padding-right: 30px;
       </a>
     </div>
     <!-- /.carousel-item -->
-    <div class="carousel-item">
+    <div class="carousel-item " >
       <a href="#">
         <div class="testimonial-item item2" style="color:white; background: url('img/ban444.jpeg'); background-size:100% 100%;">
           <center>
@@ -402,7 +402,7 @@ padding-right: 30px;
       </a>
     </div>
     <!-- /.carousel-item -->
-    <div class="carousel-item">
+    <div class="carousel-item " >
       <a href="#">
         <div class="testimonial-item" style="color:white;width:100%; background: url('img/b3.jpg'); background-size:100% 100%;">
           <center>
@@ -435,7 +435,7 @@ padding-right: 30px;
     </div>
 
 
-    <div class="carousel-item">
+    <div class="carousel-item" >
       <a href="#">
         <div class="testimonial-item" style="color:white;width:100%; background: url('img/b4.jpg'); background-size:100% 100%;">
           <center>
@@ -465,7 +465,7 @@ padding-right: 30px;
     </div>
 
 
-    <div class="carousel-item">
+    <div class="carousel-item" >
       <a href="#">
         <div class="testimonial-item" style="color:white;width:100%; background: url('img/b5.jpg'); background-size:100% 100%;">
           <center>
