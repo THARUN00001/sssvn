@@ -208,9 +208,7 @@
                 <br>
 
 
-                <p style="font-size:18px; line-height:30px; color:black; ">
-                    We encourage the students to organise and participate in a host of co-curricular activities to enable their all round development. We also seamlessly integrate values into every activity, which leads to students enthusistically embracing the values. Over a period of time the values become an integral part of their lives.
-                </p>
+                
                 <br>
             </div>
 

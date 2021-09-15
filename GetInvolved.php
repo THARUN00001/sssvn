@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <style>
     .w3l-inner-page-main .breadcrumb-infhny {
-        background: url('img/get_involved.jpg') no-repeat ;
+        background: url('img/get_involved.jpg') no-repeat;
 
         background-size: cover;
         -webkit-background-size: cover;
@@ -186,99 +186,101 @@
 
 
 
-    button.accordion{
-        font-size:16px;
-	text-align:center;
-	transition: 0.5s;
-}
+    button.accordion {
+        font-size: 16px;
+        text-align: center;
+        transition: 0.5s;
+    }
 
-.accordion {
-	border-radius:20px;
-  background-color: white;
-  color: #da2945;
-  cursor: pointer;
- 
-  padding: 10px;
-  width: 100%;
-  text-align: left;
-  border-width: 0.1px;
-  border-color: grey;
-  border-radius:5px;
-  /* margin:2.8px; */
-  
-  background-image: url(assets/css/more.svg);
-  background-size: 25px 25px;
-	background-repeat: no-repeat;
-	background-position: right;
-	transition: transform .2s ease-in-out;
-	
-  
- } 
+    .accordion {
+        border-radius: 20px;
+        background-color: white;
+        color: #da2945;
+        cursor: pointer;
+
+        padding: 10px;
+        width: 100%;
+        text-align: left;
+        border-width: 0.1px;
+        border-color: grey;
+        border-radius: 5px;
+        /* margin:2.8px; */
+
+        background-image: url(assets/css/more.svg);
+        background-size: 25px 25px;
+        background-repeat: no-repeat;
+        background-position: right;
+        transition: transform .2s ease-in-out;
 
 
-
- /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
- .active, .accordion:after {
-  background-color:#1664cd;
-  color: white;
-  background-image: url(assets/css/less.svg);
-    transform: rotate(0deg);
-	background-repeat: no-repeat;
-	background-position: right;
-	transition: transform .2s ease-in-out;
- }
-
- /* Style the accordion panel. Note: hidden by default */
- .panel {
-  padding: 10px;
-  width: 100%;
-font-size:15px;
-background: rgba(203, 203, 203, 0.43);
-text-align:left;
-align-items:left;
-  display: none;
-  overflow: hidden;
-  transition:max-height 0.3s ease-out; 
-    height:auto;
-  max-height:100%; 
- }
+    }
 
 
 
- .accordion-button{
-  
-	background-image: url(assets/css/less.svg);
-    transform: rotate(0deg);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-color:white !important;
-	color:#1664cd;
-	text-align:center !important;
- }
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active,
+    .accordion:after {
+        background-color: #1664cd;
+        color: white;
+        background-image: url(assets/css/less.svg);
+        transform: rotate(0deg);
+        background-repeat: no-repeat;
+        background-position: right;
+        transition: transform .2s ease-in-out;
+    }
+
+    /* Style the accordion panel. Note: hidden by default */
+    .panel {
+        padding: 10px;
+        width: 100%;
+        font-size: 15px;
+        background: rgba(203, 203, 203, 0.43);
+        text-align: left;
+        align-items: left;
+        display: none;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
+        height: auto;
+        max-height: 100%;
+    }
 
 
 
-.panel.collapsed {
-  max-height:0;
- } 
+    .accordion-button {
 
- #arrow {
-	position: absolute;
-   right: 18%;
-	font-size:15px;
+        background-image: url(assets/css/less.svg);
+        transform: rotate(0deg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: white !important;
+        color: #1664cd;
+        text-align: center !important;
+    }
 
-	width:10px;
-	height:10px;
- color:rgba(0, 0, 0, 1);
- font-weight: 1000 !important;
- }
 
- @media screen and (max-width: 400px) {
-.make_a_difference{
-    margin-top: 35px;
-}
- }
- @media screen and (max-width: 1080px) {
+
+    .panel.collapsed {
+        max-height: 0;
+    }
+
+    #arrow {
+        position: absolute;
+        right: 18%;
+        font-size: 15px;
+
+        width: 10px;
+        height: 10px;
+        color: rgba(0, 0, 0, 1);
+        font-weight: 1000 !important;
+    }
+
+    @media screen and (max-width: 400px) {
+        .make_a_difference {
+            margin-top: 35px;
+        }
+    }
+
+    @media screen and (max-width: 1080px) {
         .w3l-inner-page-main h2.hny-title {
             margin-top: 0px;
             font-size: 48px;
@@ -307,12 +309,12 @@ align-items:left;
         <!-- /breadcrumbs-->
         <div class="container">
             <nav aria-label="breadcrumb" class="breadcrumb-info">
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <h2 class="hny-title text-center" style="font-weight: 500;">Get Involved</h2>
                 <!-- <ol class="breadcrumb mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -348,24 +350,6 @@ align-items:left;
 
 
 
-<section>
- <center> 
-<div class="container col-log-12">
-<div class="row"> 
-<div class="col-lg-6 col-sm-6 ">
-<h2 style="color: #1664cd;">Make A Difference in the life of a child</h2> <br>
-<img style="height: 80%; width: 80%; border-radius:20px;" src="img/gi1.jpg" alt="">  
- </div>
-<div class="col-lg-6 col-sm-6 ">
-
-<h2 style="color: #1664CD;" class="make_a_difference">Make A Difference in the Learning Environment</h2>  <br>
-<img style="height: 80%; width: 80%; border-radius:20px;" src="img/gi2.jpg" alt="">
-
-</div>
-
-</div>
-</center>
-</section>
 
 
 
@@ -374,119 +358,124 @@ align-items:left;
 
 
 
+<center>
 
-<center> 
+    <section>
 
-<section>
- 
-<div class="container col-log-12">
-<div class="row"> 
-<div class="col-lg-6 col-sm-6 ">
-<br>
+        <div class="container col-log-12">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6 ">
+                    <br>
+                    <div>
+                    <h2 style="color: #1664cd;">Make A Difference in the life of a child</h2> <br>
+                    <img style="height: 80%; width: 80%; border-radius:20px;" src="img/gi1.jpg" alt="">
+                    </div>
+                    <br>
+                    <h4 class="subhead"> Sponsor a child for a year </h4>
+                    <br>
+                    <br>
 
-<br>
-<h4 class="subhead"> Sponsor a child for a year </h4>
-<br>
-<br>
+                    <button class="accordion "> Select Class </button>
 
-<button class="accordion " >  Select Class  </button>
+                    <div class="panel">
+                        <br>
 
-<div class="panel" >
-<br>
+                        <script type="text/javascript">
+                            function ShowHideDiv(chkPassport) {
+                                var dvPassport = document.getElementById("dvPassport");
+                                dvPassport.style.display = chkPassport.checked ? "block" : "none";
+                            }
+                        </script>
 
-<script type="text/javascript">
-    function ShowHideDiv(chkPassport) {
-        var dvPassport = document.getElementById("dvPassport");
-        dvPassport.style.display = chkPassport.checked ? "block" : "none";
-    }
-</script>
+                        <form action="recieve.php" method="POST">
 
-<form action="recieve.php" method="POST">
+                            <input onclick="ShowHideDiv(this)" class="lkg_&_ukg" type="radio" id="html1" name="v" value="LKG & UKG: Rs. 10,000">
+                              <label for="html">LKG & UKG: Rs. 10,000</label>
+                            <br>
+                            <input onclick="ShowHideDiv(this)" class="class1–4" type="radio" id="html2" name="v" value="Class 1 – 4: Rs. 18,000">
+                              <label for="html">Class 1 – 4: Rs. 18,000</label>
+                            <br>
 
-<input  onclick="ShowHideDiv(this)" class="lkg_&_ukg" type="radio" id="html1" name="v" value="LKG & UKG: Rs. 10,000">
-  <label for="html">LKG & UKG: Rs. 10,000</label>
-<br>
-<input  onclick="ShowHideDiv(this)" class="class1–4" type="radio" id="html2" name="v" value="Class 1 – 4: Rs. 18,000">
-  <label for="html">Class 1 – 4: Rs. 18,000</label>
-<br>
+                            <input onclick="ShowHideDiv(this)" class="class5–7" type="radio" id="html3" name="v" value="Class 5 – 7: Rs. 19,000">
+                              <label for="html">Class 5 – 7: Rs. 19,000</label>
+                            <br>
 
-<input  onclick="ShowHideDiv(this)" class="class5–7" type="radio" id="html3" name="v" value="Class 5 – 7: Rs. 19,000">
-  <label for="html">Class 5 – 7: Rs. 19,000</label>
-<br>
-
-<input  onclick="ShowHideDiv(this)" class="class8–9" type="radio" id="html4" name="v" value="Class 8 – 9: Rs. 21,500">
-  <label for="html">Class 8 – 9: Rs. 21,500</label>
-<br>
-<input  onclick="ShowHideDiv(this)" class="class10" type="radio" id="html5" name="v" value="Class 10: Rs. 22,000">
-  <label for="html">Class 10: Rs. 22,000 </label>
-<br>
-<br>
-<div id="dvPassport" style="display: none">
+                            <input onclick="ShowHideDiv(this)" class="class8–9" type="radio" id="html4" name="v" value="Class 8 – 9: Rs. 21,500">
+                              <label for="html">Class 8 – 9: Rs. 21,500</label>
+                            <br>
+                            <input onclick="ShowHideDiv(this)" class="class10" type="radio" id="html5" name="v" value="Class 10: Rs. 22,000">
+                              <label for="html">Class 10: Rs. 22,000 </label>
+                            <br>
+                            <br>
+                            <div id="dvPassport" style="display: none">
 
 
-<br>
+                                <br>
 
-  
-<label for="formGroupExampleInput">Enter Your Name: </label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Name" name="s_name">
 
-<br>
-    <label for="formGroupExampleInput">Enter Your Phone No: </label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Phone No." name="s_phoneno">
+                                <label for="formGroupExampleInput">Enter Your Name: </label>
+                                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Name" name="s_name">
 
-  <br>
-    <label for="formGroupExampleInput">Enter Your Mail ID:</label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Mail ID" name="s_email">
+                                <br>
+                                <label for="formGroupExampleInput">Enter Your Phone No: </label>
+                                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Phone No." name="s_phoneno">
 
-    <div style="width: 100px; ">
-              <!-- <div class="eff-4-pink" ></div> -->
-              <button class="button-4-pink" type="submit">Submit</button>
+                                <br>
+                                <label for="formGroupExampleInput">Enter Your Mail ID:</label>
+                                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Mail ID" name="s_email">
+
+                                <div style="width: 100px; ">
+                                    <!-- <div class="eff-4-pink" ></div> -->
+                                    <button class="button-4-pink" type="submit">Submit</button>
+                                </div>
+                        </form>
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+
             </div>
-   </form>
-   
-    
-</div>
+            <div class="col-lg-6 col-sm-6 ">
+                <br>
+                <div>
+                <h2 style="color: #1664CD;" class="make_a_difference">Make A Difference in the Learning Environment</h2> <br>
+                    <img style="height: 80%; width: 80%; border-radius:20px;" src="img/gi2.jpg" alt="">
+                    </div>
+                <br>
+                <h4 class="subhead"> Select Your Choice</h4>
+                <br>
+                <br>
+                <button class="accordion "> I wish to Donate </button>
+                <div class="panel">
+                    <br>
+
+                    <script type="text/javascript">
+                        function ShowHideDiv2(chkPassport2) {
+                            var dvPassport2 = document.getElementById("dvPassport2");
+                            dvPassport2.style.display = chkPassport2.checked ? "block" : "none";
+
+                            var text2 = document.getElementById("otherop");
+                            var text1 = document.getElementById("amountop");
+                            if (amountForClass.checked == true) {
+                                text2.style.display = "none";
+                                text1.style.display = "block";
+                            } else {
+                                text2.style.display = "block";
+                                text1.style.display = "none";
+                            }
 
 
 
-</div>
 
-
-
-
- </div>
-<div class="col-lg-6 col-sm-6 ">
-<br>
-
-<br>
-<h4 class="subhead"> Select Your Choice</h4>
-<br>
-<br>
-<button class="accordion " >  I wish to Donate   </button>
-<div class="panel" >
-<br>
-
-<script type="text/javascript">
-    function ShowHideDiv2(chkPassport2) {
-        var dvPassport2 = document.getElementById("dvPassport2");
-        dvPassport2.style.display = chkPassport2.checked ? "block" : "none";
-     
-        var text2 = document.getElementById("otherop");
-        var text1 = document.getElementById("amountop");
-        if (amountForClass.checked == true){
-            text2.style.display = "none";
-    text1.style.display = "block";
-  } else {
-    text2.style.display = "block";
-     text1.style.display = "none";
-  }
-
-
- 
-    
-    }
-</script>
-<!-- 
+                        }
+                    </script>
+                    <!-- 
 <script type="text/javascript">
     function ShowHideDiv3(chkPassport3) {
         var dvPassport3 = document.getElementById("dvPassport3");
@@ -498,82 +487,82 @@ align-items:left;
 
 
 
-<input  onclick="ShowHideDiv2(this)" id="amountForClass" type="radio" id="html2" name="fav_language2" value="Amount for a Class">
-  <label for="html">Amount for a Class <br>
-(any amount is welcome)</label>
-<br>
-<input  onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Play things">
-  <label for="html">Play things</label>
-<br>
+                    <input onclick="ShowHideDiv2(this)" id="amountForClass" type="radio" id="html2" name="fav_language2" value="Amount for a Class">
+                      <label for="html">Amount for a Class <br>
+                        (any amount is welcome)</label>
+                    <br>
+                    <input onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Play things">
+                      <label for="html">Play things</label>
+                    <br>
 
-<input  onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Furniture: Desks / Chairs / Boards">
-  <label for="html">Furniture: Desks / Chairs / Boards</label>
-<br>
+                    <input onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Furniture: Desks / Chairs / Boards">
+                      <label for="html">Furniture: Desks / Chairs / Boards</label>
+                    <br>
 
-<input  onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Techie Stuff: Laptop, Projector etc">
-  <label for="html">Techie Stuff: Laptop, Projector etc</label>
-<br>
-<input  onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Any other donations">
-  <label for="html">Any other donations</label>
-<br>
-<br>
+                    <input onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Techie Stuff: Laptop, Projector etc">
+                      <label for="html">Techie Stuff: Laptop, Projector etc</label>
+                    <br>
+                    <input onclick="ShowHideDiv2(this)" class="otheroptions" type="radio" id="html2" name="fav_language2" value="Any other donations">
+                      <label for="html">Any other donations</label>
+                    <br>
+                    <br>
 
 
-<div id="dvPassport2" style="display:none;">
-<form  action=" ">
-  
-<label for="formGroupExampleInput">Enter Your Name: </label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Name">
+                    <div id="dvPassport2" style="display:none;">
+                        <form action=" ">
 
-<br>
-    <label for="formGroupExampleInput">Enter Your Phone No: </label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Phone No.">
+                            <label for="formGroupExampleInput">Enter Your Name: </label>
+                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Name">
 
-  <br>
-    <label for="formGroupExampleInput">Enter Your Mail ID:</label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Mail ID">
+                            <br>
+                            <label for="formGroupExampleInput">Enter Your Phone No: </label>
+                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Phone No.">
 
-<center> 
-    <div style="width: 100px; ">
-    <!-- <div class="eff-4-pink" ></div> -->
-              <button class="button-4-pink"  type="submit">Submit</button>
-            </div>
-   </form>
-   <br>
+                            <br>
+                            <label for="formGroupExampleInput">Enter Your Mail ID:</label>
+                            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Mail ID">
 
-   <div>
-   <h3 id="amountop"> You Can make 
-a UPI transfer to <b>- 70225 37447 </b></h3>
-   </div>
-   <h3 id="otherop">Thank You – We 
-Will Get in Touch 
-with You</h3>
-   </div>
-   </center>
+                            <center>
+                                <div style="width: 100px; ">
+                                    <!-- <div class="eff-4-pink" ></div> -->
+                                    <button class="button-4-pink" type="submit">Submit</button>
+                                </div>
+                        </form>
+                        <br>
+
+                        <div>
+                            <h3 id="amountop"> You Can make
+                                a UPI transfer to <b>- 70225 37447 </b></h3>
+                        </div>
+                        <h3 id="otherop">Thank You – We
+                            Will Get in Touch
+                            with You</h3>
+                    </div>
+</center>
 </div>
 
 
 <div id="dvPassport3" style="display:none;">
-<form  action=" ">
-  
-<label for="formGroupExampleInput">Ente: </label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Name">
+    <form action=" ">
 
-<br>
-    <label for="formGroupExampleInput">Enter Your Phone No: </label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Phone No.">
+        <label for="formGroupExampleInput">Ente: </label>
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Name">
 
-  <br>
-    <label for="formGroupExampleInput">Enter Your Mail ID:</label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Mail ID">
+        <br>
+        <label for="formGroupExampleInput">Enter Your Phone No: </label>
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your Phone No.">
 
-    <div class="button-4-pink" style="width: 100px; ">
-              <div class="eff-4-pink" ></div>
-              <button type="submit">Submit</button>
-            </div>
-   </form>
-   
-    
+        <br>
+        <label for="formGroupExampleInput">Enter Your Mail ID:</label>
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Mail ID">
+
+        <div class="button-4-pink" style="width: 100px; ">
+            <div class="eff-4-pink"></div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+
 </div>
 </div>
 </div>
@@ -607,22 +596,22 @@ with You</h3>
 
 
 <script>
-	var acc = document.getElementsByClassName("accordion");
-var i;
+    var acc = document.getElementsByClassName("accordion");
+    var i;
 
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    /* Toggle between adding and removing the "active" class,
-    to highlight the button that controls the panel */
-    this.classList.toggle("active");
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            /* Toggle between adding and removing the "active" class,
+            to highlight the button that controls the panel */
+            this.classList.toggle("active");
 
-    /* Toggle between hiding and showing the active panel */
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
+            /* Toggle between hiding and showing the active panel */
+            var panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+                panel.style.display = "none";
+            } else {
+                panel.style.display = "block";
+            }
+        });
     }
-  });
-}
 </script>
