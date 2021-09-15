@@ -33,9 +33,9 @@
   }
 
   .testimonial-item {
-    background-size: 100% 100%;
+    background-size: 80% 80%;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 80vh;
     justify-content: center;
     align-items: center;
     padding-top: 7rem;
@@ -351,12 +351,11 @@ padding-right: 30px;
             <br>
             <br>
             <br>
-            <br>
-            <br>
+          
             <b>
               <h1 style="animation-delay:1s; padding: top 70px" class="animate__animated animate__fadeInDown	t1">What is the Most Fundamental Requirement of Education?</h1>
               <br>
-              <br>
+        
               <br>
               <p style="animation-delay: 2s; " class=" para animate__animated animate__fadeInUp 	">
                 <sup>
@@ -467,7 +466,7 @@ padding-right: 30px;
 
     <div class="carousel-item" >
       <a href="#">
-        <div class="testimonial-item" style="color:white;width:100%; background: url('img/b5.jpg'); background-size:cover; background-position-x:40%;">
+        <div class="testimonial-item" style="color:white;width:100%; background: url('img/b5.jpg'); background-size:cover; background-position-x:40%; background-position-y:40%; ">
           <center>
             <br>
             <br>
