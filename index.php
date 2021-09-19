@@ -374,7 +374,7 @@ padding-right: 30px;
     <!-- /.carousel-item -->
     <div class="carousel-item " >
       <a href="#">
-        <div class="testimonial-item item2" style="color:white; background: url('img/ban444.jpeg'); background-size:cover; background-position-x:40%;">
+        <div class="testimonial-item item2" style="color:white; background: url('img/ban4.JPEG'); background-size:cover; background-position-x:50%;">
           <center>
             <br>
             <br>
@@ -434,6 +434,9 @@ padding-right: 30px;
     </div>
 
 
+
+
+
     <div class="carousel-item" >
       <a href="#">
         <div class="testimonial-item" style="color:white;width:100%; background: url('img/b4.jpg');background-size:cover; background-position-x:40%;">
@@ -466,7 +469,7 @@ padding-right: 30px;
 
     <div class="carousel-item" >
       <a href="#">
-        <div class="testimonial-item" style="color:white;width:100%; background: url('img/b5.jpg'); background-size:cover; background-position-x:40%; background-position-y:40%; ">
+        <div class="testimonial-item" style="color:white;width:100%; background: url('img/b5.jpg'); background-size:cover; background-position-x:50%; background-position-y:40%; ">
           <center>
             <br>
             <br>
@@ -654,11 +657,12 @@ padding-right: 30px;
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div  class="col-md-6 col-lg-4  align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" data-aos="fade-up" data-aos-delay="100">
               
                   <div class="card" style=" margin-bottom:15px; border:0;">
-                    <img  src="img/vbe.jpg" class="card-img" alt="...">
+                  <img src="img/vbe.jpg" class="card-img" alt="...">
+                  
 
               
               </div>
@@ -679,7 +683,7 @@ padding-right: 30px;
             </div>
           </div>
        
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-6 col-lg-4  align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" data-aos="fade-up" data-aos-delay="200">
             <div class="card" style=" margin-bottom:15px; border:0;">
                     <img src="img/Parents Participation1.JPG" class="card-img" alt="...">
@@ -701,7 +705,7 @@ padding-right: 30px;
             </div>
           </div>
          
-          <div class="col-md-12 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-6 col-lg-4  align-items-stretch mb-5 mb-lg-0">
             <div style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <!-- <div class="icon text-center"><i> <img src="img/team.svg" width="55" height="55" alt=""></i></div> -->
               <div class="card" style=" margin-bottom:15px; border:0;">
@@ -844,6 +848,15 @@ padding-right: 30px;
   <br>
 
 <div data-aos="fade-right" class="made ma"><p class="end"><a class="a ab" style="color: #1664cd;">We Have Made a Difference .... </a></p></div>
+
+
+
+
+
+
+
+
+
 
 
   <section class="w3l-customers-6" data-aos="zoom-in">

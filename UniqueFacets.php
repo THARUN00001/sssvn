@@ -132,7 +132,7 @@
 
             <div class="col-lg-5 first_order" style="float:right">
 
-                <img style=" height:100%; width:100%; margin: 15px 15px 15px 0 ; border-radius:15px;" src="img/VBE 1.JPG" alt="">
+                <img style=" height:100%; width:100%; margin: 65px 15px 15px 0 ; border-radius:15px;" src="img/VBE 1.JPG" alt="">
 
 
             </div>
@@ -141,7 +141,7 @@
 
 
                 <br>
-                <p style="font-size:17px; line-height:28px; color:black">
+                <p style="font-size:17px; line-height:28px; color:black; margin-right: 20px;">
                     "True education is inculcation of values, not accumulation of facts" <br>
                     Traditional Educational Systems are well honed to equip you for a living, but Sri Sathya Sai Education System goes beyond that. It strives to equip you for life. It shows us how to lead a life grounded in values. Education with Values is Educare. <br>
                     <br>
@@ -222,16 +222,18 @@
 
         <div class="uf_four reordered" style="margin-bottom:50px;">
 
-            <div class="col-lg-5 first_order" style="float:left;">
-                <img style=" height:260px; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/Parent-Care.jpg" alt="">
+            <div class="col-lg-5 col-sm-12 first_order" >
+                <img style=" width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/Parent-Care.jpg" alt="">
 
             </div>
+
+
+
+
+            <div class="col-lg-7 col-sm-12 second_order ">
             <br>
-
-
-
-
-            <div class="col-lg-7 second_order ">
+            <br>
+            <br>
                 <h1 class="hny-title">Parent Care</h1>
 
                 <p style="font-size:18px; line-height:30px; color:black; margin-left:25px !important;">Parents are an integral part of the Sathya Sai system of education. We at SSSVN, take personal note of every family that sends their children to our school. We are personally aware of their backgrounds and provide ample assistance to the needy, by subsidising the cost , providing education totally free to needy families and also identifying sponsors to support students.

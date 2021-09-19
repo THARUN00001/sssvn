@@ -127,19 +127,7 @@
 
     }
 
-    .sports {
-        width: 100%;
-        height: auto;
-    }
-
-    .sports img {
-        width: 100%;
-        height: auto;
-        margin-left: 0px;
-        padding-left: 0px;
-        /* margin-bottom: 400px; */
-
-    }
+   
 
     .aa {
         align-items: center;
@@ -532,7 +520,7 @@ height: 400px;
             </a>
         </div>
 </section>
-
+<br>
 
 <section id="Co-CurricularActivities">
     <div>
@@ -542,11 +530,13 @@ height: 400px;
 
             <h2 class="secondd" style="color: #da2945;;">Bhagavad Gita Competition</h2>
         </div>
-        <div class="sports" data-aos="fade-right">
-            <img src="img/co.png" alt="" srcset="">
-        </div>
+        
+      <center>
+      <img style="height:90%; width:90%;" src="img/co.png" alt="" srcset="">
+      </center>
+       
 </section>
-
+<br>
 
 <section id="Accreditations">
     <div>
