@@ -532,7 +532,7 @@ height: 400px;
         </div>
         
       <center>
-      <img style="height:90%; width:90%;" src="img/co.png" alt="" srcset="">
+      <img style="height:80%; width:80%;" src="img/co.png" alt="" srcset="">
       </center>
        
 </section>

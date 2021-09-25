@@ -426,7 +426,7 @@
 
                                 <div style="width: 100px; ">
                                     <!-- <div class="eff-4-pink" ></div> -->
-                                    <button class="button-4-pink" type="submit">Submit</button>
+                                    <button style="padding-left:0;" class="button-4-pink" type="submit">Submit</button>
                                 </div>
                         </form>
 
@@ -525,7 +525,7 @@
                             <center>
                                 <div style="width: 100px; ">
                                     <!-- <div class="eff-4-pink" ></div> -->
-                                    <button class="button-4-pink" type="submit">Submit</button>
+                                    <button style="padding-left:0;" class="button-4-pink" type="submit">Submit</button>
                                 </div>
                         </form>
                         <br>
