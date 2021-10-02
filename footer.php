@@ -52,7 +52,7 @@ padding-left: 20px;
 
           <div class="col-lg-3 col-md-6 footer-contact">
           <img src="logo.png" height="100px" width="100px" alt="">
-            <h3 style="line-height: 30px;">Sri Sathya Sai Vidyaniketan </h3>
+            <h3 style="line-height: 30px;">Sri Sathya Sai Vidya Niketan </h3>
             <p>
             <strong> Sri Sathya Sai Nagar <br>
               Bagepalli, Chikkaballapura Dist<br>
@@ -119,7 +119,7 @@ padding-left: 20px;
 
     <div class="container py-4">
       <div class="copyright">
-      2021 &copy; Copyright <strong><span>Sri Sathya Sai Vidyaniketan</span></strong>. All Rights Reserved
+      2021 &copy; Copyright <strong><span>Sri Sathya Sai Vidya Niketan</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         

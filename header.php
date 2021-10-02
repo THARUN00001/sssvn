@@ -103,8 +103,8 @@
     }
 
     .logo_img {
-      height: 90px;
-      width: 230px;
+      height: 80px;
+      width: 250px;
       padding-top: 5px;
       padding-left: 5px;
     }
@@ -197,7 +197,7 @@ margin-left: 0px;
    
     @media only screen and (max-width:380px){
 .logo_img{
-  width: 210px;
+  width: 250px;
   height: 80px;
 }
     }
@@ -282,7 +282,7 @@ margin-left: 0px;
     
 " class="container d-flex align-items-center justify-content-between">
 
-    <a href="index"><img src="img/logo4.png" class="logo_img" alt=""></a>
+    <a href="index"><img src="img/logolf.PNG" class="logo_img" alt=""></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
