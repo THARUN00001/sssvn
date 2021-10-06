@@ -3461,7 +3461,7 @@ Academics
 					 <br>
 	 				<div class="team-circle-text">
 					 <h5 class="light italic libre-baskerville"><b>2ND RANK</b> </h5>
-					 <h4 class="light">Saishree.S.Reddy</h4>
+					 <h4 class="light">Saishree.S. Reddy</h4>
 						<h5 class="light italic libre-baskerville">Percentage: 92.80%</h5>
 					</div>
 	 			</div>
@@ -4830,6 +4830,12 @@ Academics
 </div>
 </div>
 <br>
+
+
+</div>
+</div>
+
+
 </section>
 			 <!-- Team Style 4 Section END -->
 <?php include 'footer.php'; ?>

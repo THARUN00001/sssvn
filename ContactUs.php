@@ -644,9 +644,9 @@
               <a  style="margin-top:10px;" href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
             </div> -->
         </div>
-        <div class="map col-lg-6 " data-aos="fade-right" style="margin-left: 0px; margin-right:0px; padding:0%; float:left;width:100vw;">
+        <div class="map col-lg-6 " data-aos="fade-down" style="margin-left: 0px; margin-right:0px; padding:0%; float:left;width:100vw;">
 
-          <iframe style="float: left;" class="mp" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.133082732094!2d77.78072426435561!3d13.770846990335082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xefd861311d2bac21!2sSri%20Sathya%20Sai%20Vidya%20Niketan!5e0!3m2!1sen!2sin!4v1623611213580!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          <iframe  style="float: left;" class="mp" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.133082732094!2d77.78072426435561!3d13.770846990335082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xefd861311d2bac21!2sSri%20Sathya%20Sai%20Vidya%20Niketan!5e0!3m2!1sen!2sin!4v1623611213580!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
     </div>
@@ -654,7 +654,7 @@
   <div class="contact-form py-5" data-aos="fade-right">
     <div class="container py-lg-5">
       <div class="contacts12-main">
-        <h3 class="hny-title text-center">Get In Touch</h3>
+        <h3 data-aos="fade-down" class="hny-title text-center">Get In Touch</h3>
         <form class="f-hnyv mt-md-5 mt-4" action="https://sendmail.w3layouts.com/submitForm" method="post">
           <div class="main-input">
             <div>

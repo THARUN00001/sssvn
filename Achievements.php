@@ -532,7 +532,7 @@ height: 400px;
         </div>
         
       <center>
-      <img style="height:80%; width:80%;" src="img/co.png" alt="" srcset="">
+      <img data-aos="fade-up" style="height:80%; width:80%;" src="img/co.png" alt="" srcset="">
       </center>
        
 </section>
@@ -547,7 +547,7 @@ height: 400px;
             <h2 class="secondd" style="color: #da2945;;">Accreditation Certificate</h2>
 
         </div>
-        <div class=" aa" data-aos="fade-right">
+        <div class=" aa" data-aos="fade-up">
             <img src="collage/Acceriditation.jpg" alt="" srcset="">
         </div>
 </section>

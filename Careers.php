@@ -193,12 +193,12 @@
     <!--//banner-slider-->
 </section>
 
-<section data-aos="fade-left">
+<section >
     <div class="container py-lg-5">
         <div class="heading1 dates"  >
-            <h3>Careers</h3>
+            <h3 data-aos="fade-right">Careers</h3>
         </div>
-        <div class="para1 paralast" style="text-align: center;">
+        <div data-aos="fade-up" class="para1 paralast" style="text-align: center;">
             <p >We dont have any openings/vacancies for now <br> We will notify when required</p>
             <br>
             
