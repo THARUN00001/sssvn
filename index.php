@@ -526,7 +526,8 @@ padding-right: 30px;
 
 
 <section class="w3l-video-main">
-  <!-- /video-6-->
+  <!-- /video-6--> 
+  
   <div class="video-66-info">
     <div class="container-fluid">
       <div class="video-grids-info row" style="padding-top: 4%;padding-left:0;">
