@@ -4833,7 +4833,7 @@ Academics
 
 
 </div>
-</div>
+
 
 
 </section>
