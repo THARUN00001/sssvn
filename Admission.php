@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <style>
     .w3l-inner-page-main .breadcrumb-infhny {
-        background: url('img/Admission_banner.jpg') no-repeat center;
+        background: url('img/Admission_banner.JPG') no-repeat center;
         background-size: cover;
         -webkit-background-size: cover;
         -o-background-size: cover;

@@ -282,7 +282,7 @@ margin-left: 0px;
     
 " class="container d-flex align-items-center justify-content-between">
 
-    <a href="index"><img src="img/logolf.PNG" class="logo_img" alt=""></a>
+    <a href="index"><img src="img/logolf.png" class="logo_img" alt=""></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 

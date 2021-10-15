@@ -662,7 +662,7 @@ padding-right: 30px;
             <div class="icon-box" style="padding-top: 0px; padding-right: 0px;padding-left: 0px;" data-aos="fade-up" data-aos-delay="100">
               
                   <div class="card" style=" margin-bottom:15px; border:0;">
-                  <img src="img/vbe.jpg" class="card-img" alt="...">
+                  <img src="img/VBE.jpg" class="card-img" alt="...">
                   
 
               

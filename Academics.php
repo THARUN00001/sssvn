@@ -2018,7 +2018,7 @@ color: #71bf45;
 
 
 
-<div data-aos="fade-right" style="background:  url(img/SSLC-TOOPERS-PHOTOS/banner.JPEG) ;width: 100%;height:480px;background-position-y:40% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white;"  class="heading" >
+<div data-aos="fade-right" style="background:  url(img/SSLC-TOOPERS-PHOTOS/banner.jpeg) ;width: 100%;height:480px;background-position-y:40% ;background-size:cover ;background-repeat: no-repeat; padding-top: 170px;color:white;"  class="heading" >
 <br>
 <br>
 <br>
@@ -2261,8 +2261,6 @@ Academics
 <td class="t data"  >440</td>	
 <td class="t data"  >70.40%</td>	
 </tr>
-
-
 
 
   </table>

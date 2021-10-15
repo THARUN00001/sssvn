@@ -253,7 +253,7 @@
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px;   border-radius:15px;" src="img/Unique-Facets-Page/PP1.jpg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px; margin-top:45px;" src="img/Unique-Facets-Page/PP2.jpg" alt=""> </div>
                 <div class="fff col-lg-6 col-md-6 col-sm-6" style="float:right;"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/PP3.jpeg" alt=""> </div>
-                <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/PP.jpg" alt=""> </div>
+                <div class="fff col-lg-6 col-md-6 col-sm-6"> <img style=" height:100%; width:100%; margin:15px; border-radius:15px;" src="img/Unique-Facets-Page/PP.JPG" alt=""> </div>
             </div>
 
             <br>
@@ -276,7 +276,7 @@
 <br>
 <br>
 <center>
-    <div id="CommunityService" style="background: url(img/Unique-Facets-Page/CS2.JPG);background-position-y:15% ;background-position-x:35% ;background-size:cover ;background-repeat: no-repeat; opacity:0.5px; ;background-size: cover;background-repeat: no-repeat; ;width:100%;" class="uf_six" data-aos="fade-right">
+    <div id="CommunityService" style="background: url(img/Unique-Facets-Page/CS2.jpg);background-position-y:15% ;background-position-x:35% ;background-size:cover ;background-repeat: no-repeat; opacity:0.5px; ;background-size: cover;background-repeat: no-repeat; ;width:100%;" class="uf_six" data-aos="fade-right">
 
         <br>
         <br>
