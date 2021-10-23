@@ -374,7 +374,7 @@ padding-right: 30px;
     <!-- /.carousel-item -->
     <div class="carousel-item " >
       <a href="#">
-        <div class="testimonial-item item2" style="color:white; background: url('img/ban4.JPEG'); background-size:cover; background-position-x:50%;">
+        <div class="testimonial-item item2" style="color:white; background: url('img/ban4.jpeg'); background-size:cover; background-position-x:50%;">
           <center>
             <br>
             <br>
@@ -542,7 +542,9 @@ padding-right: 30px;
 
             <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
             <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/-8oazNNM_pA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/-8oazNNM_pA"
+                 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+                 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <!--//popup-->
           </div>

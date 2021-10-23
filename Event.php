@@ -1705,24 +1705,24 @@ li{
 <div id="carouselExampleFade14" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img  class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/One.jpg" alt="First slide">
+      <img  class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/One.JPG" alt="First slide">
     </div>
 
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Two.jpg" alt="Second slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Two.JPG" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Three.jpg" alt="Third slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Three.JPG" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Four.jpg" alt="Four slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Four.JPG" alt="Four slide">
     </div>
     <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Five.jpg" alt="Five slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Five.JPG" alt="Five slide">
     </div>
 
   <div class="carousel-item">
-      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Six.jpg" alt="Six slide">
+      <img class="events_carousel" class="d-block w-100" src="Selected-School-Images/Aksharabhyasa/Six.JPG" alt="Six slide">
     </div>
 
 
